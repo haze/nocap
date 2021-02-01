@@ -1,0 +1,14 @@
+[package]
+name = "api_server"
+version = "0.1.0"
+authors = ["Haze Booth <isnt@haze.cool>"]
+edition = "2018"
+
+[dependencies]
+async-std = "1.4.0"
+tide = "0.6.0"
+no_captcha = { path = "../", version = "0.1.0" }
+serde = "1.0.104"
+serde_derive = "1.0.104"
+serde_json = "1.0.45"
+base64 = "0.11.0"

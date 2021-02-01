@@ -1,0 +1,21 @@
+[package]
+name = "no_captcha"
+version = "0.1.0"
+authors = ["Haze Booth <isnt@haze.cool>"]
+edition = "2018"
+
+[dependencies]
+tensorflow = { version = "0.14.0", features = ["tensorflow_gpu"] }
+strum = "0.17.1"
+strum_macros = "0.17.1"
+rayon = "1.3.0"
+serde = "1.0.104"
+serde_derive = "1.0.104"
+serde_json = "1.0.45"
+
+[dev-dependencies]
+criterion = "0.3.1"
+
+[[bench]]
+name = "main_benchmark"
+harness = false

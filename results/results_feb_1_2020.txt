@@ -1,0 +1,2148 @@
+Beginning test on a fire hydrant/a_fire_hydrant...
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/b1a3d0ee-3f5c-4ee1-890a-35db666e6c6f.png"
+Prediction { affirmative_confidence: 0.88973165, negative_confidence: 0.110268354 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/29ce5af8-1ad3-4d02-9176-c1a9be52b645.png"
+Prediction { affirmative_confidence: 0.96204054, negative_confidence: 0.037959453 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/1aa9f234-3998-4887-bab5-75117a9aba83.png"
+Prediction { affirmative_confidence: 0.9234475, negative_confidence: 0.0765525 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/7f278861-fb08-4850-b26b-756b0cff9017.png"
+Prediction { affirmative_confidence: 0.9212319, negative_confidence: 0.0787681 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/ca5c33c7-d755-432e-aa1d-d6069a7a8071.png"
+Prediction { affirmative_confidence: 0.947463, negative_confidence: 0.05253697 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/d9bea892-dfcf-43af-8556-a8c1528b39aa.png"
+Prediction { affirmative_confidence: 0.8719006, negative_confidence: 0.12809935 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/c5547803-9695-4917-a8a4-cbb8b19f5c62.png"
+Prediction { affirmative_confidence: 0.96147174, negative_confidence: 0.038528334 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/93f657f9-09be-4dcc-b469-729a07604685.png"
+Prediction { affirmative_confidence: 0.8985123, negative_confidence: 0.101487674 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/2ba5500d-613c-4080-aa6a-60c4cc8c8635.png"
+Prediction { affirmative_confidence: 0.875316, negative_confidence: 0.12468397 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/bd2cd146-6cb3-43b6-af3b-118118b1990d.png"
+Prediction { affirmative_confidence: 0.68757385, negative_confidence: 0.31242615 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/720cb87a-24f2-48d0-9995-919d406eaba1.png"
+Prediction { affirmative_confidence: 0.8802925, negative_confidence: 0.11970752 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/aa9364ec-de58-42b7-83f1-bac7ac39c7dd.png"
+Prediction { affirmative_confidence: 0.96030927, negative_confidence: 0.03969072 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/2b4139bf-c610-4a8d-ae5b-95f718ff2f8a.png"
+Prediction { affirmative_confidence: 0.9482276, negative_confidence: 0.051772393 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/5f3ed3b8-e3f8-460b-afbc-8f9df75e4b81.png"
+Prediction { affirmative_confidence: 0.9374192, negative_confidence: 0.062580876 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/9a1a585e-8eae-4950-836e-13684af3086d.png"
+Prediction { affirmative_confidence: 0.71351856, negative_confidence: 0.28648147 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/3c78b4a4-a1d8-4c36-b52e-fb51dd7c427e.png"
+Prediction { affirmative_confidence: 0.5767226, negative_confidence: 0.42327732 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/22772a7b-02ec-4930-86b6-eae1b629f931.png"
+Prediction { affirmative_confidence: 0.94429684, negative_confidence: 0.05570314 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/matches/a0b926ff-988d-4cc6-8c97-79d1347e0d40.png"
+Prediction { affirmative_confidence: 0.9066672, negative_confidence: 0.09333286 }
+[a_fire_hydrant] 100.0% 18 Correct, 0.0% 0 Incorrect (18 total)
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/6dc948af-da85-428c-942f-fbd0ca291d4e.png"
+Prediction { affirmative_confidence: 0.80336636, negative_confidence: 0.19663362 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/aec00e79-a2fa-4f1f-a1a9-686c0d8c8f39.png"
+Prediction { affirmative_confidence: 0.6212681, negative_confidence: 0.37873194 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/8fc84a91-5260-4916-8408-6a83a6aa4eed.png"
+Prediction { affirmative_confidence: 0.61762214, negative_confidence: 0.38237792 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/f0d5e5e0-66dc-48ae-a8af-7b091e3b5ead.png"
+Prediction { affirmative_confidence: 0.4575689, negative_confidence: 0.5424311 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/c962332f-be56-4220-a32c-d36b71f3ed97.png"
+Prediction { affirmative_confidence: 0.7071539, negative_confidence: 0.29284605 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/bb353b6c-912f-4c5e-908c-2d266e483b37.png"
+Prediction { affirmative_confidence: 0.48840204, negative_confidence: 0.51159793 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/9983fb86-7cec-4d16-a55a-0fb64318ac88.png"
+Prediction { affirmative_confidence: 0.83534634, negative_confidence: 0.16465363 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/506d3e15-0165-44a3-9a4e-802b7aa4bee8.png"
+Prediction { affirmative_confidence: 0.85931385, negative_confidence: 0.14068618 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/943e91d9-8f38-4a49-976c-60e30ddabaeb.png"
+Prediction { affirmative_confidence: 0.5270403, negative_confidence: 0.4729597 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/19c22f9d-2d94-412d-b4d4-a94d35aea7bc.png"
+Prediction { affirmative_confidence: 0.74110794, negative_confidence: 0.25889212 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/10758597-1983-413b-ad06-e31b95d2b33f.png"
+Prediction { affirmative_confidence: 0.764132, negative_confidence: 0.23586799 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/5e2fbce5-9ae9-4eca-9f0e-94558af8aed1.png"
+Prediction { affirmative_confidence: 0.65692055, negative_confidence: 0.34307945 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/82548717-d061-496c-9b2c-2a963401b592.png"
+Prediction { affirmative_confidence: 0.6842417, negative_confidence: 0.31575823 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/2082ed14-2870-4738-89bf-cf261e6c7c8d.png"
+Prediction { affirmative_confidence: 0.5539229, negative_confidence: 0.4460771 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/8fa5a1e4-c331-4d02-8e63-d31b244b2cd8.png"
+Prediction { affirmative_confidence: 0.46141016, negative_confidence: 0.53858984 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/5130af75-60d9-4298-bcdc-ceaf8bda185a.png"
+Prediction { affirmative_confidence: 0.8802925, negative_confidence: 0.11970752 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/d353b164-60de-4d53-b363-1f7f8dde5fa9.png"
+Prediction { affirmative_confidence: 0.82665956, negative_confidence: 0.17334041 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/9d2e7ed8-5004-4ef3-8eda-fbe58e0d2f99.png"
+Prediction { affirmative_confidence: 0.85743356, negative_confidence: 0.1425664 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/b8c5e796-9f96-4f6e-8bfd-f6cd2ae2211f.png"
+Prediction { affirmative_confidence: 0.71979964, negative_confidence: 0.28020036 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/10c47a00-d613-4b2c-8fc8-0a31f9ea86e8.png"
+Prediction { affirmative_confidence: 0.55009806, negative_confidence: 0.44990194 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/6ccbb7e0-bfd4-4a95-b784-e2a3fed0020e.png"
+Prediction { affirmative_confidence: 0.83746266, negative_confidence: 0.16253732 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/627187a9-4d83-4de2-a057-3efd61579d5f.png"
+Prediction { affirmative_confidence: 0.8082071, negative_confidence: 0.19179292 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/8d720a4b-9749-4307-8063-b3000e6d680d.png"
+Prediction { affirmative_confidence: 0.64638823, negative_confidence: 0.35361174 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/53b40d10-3eaf-4599-979a-60f34c27a48e.png"
+Prediction { affirmative_confidence: 0.62126803, negative_confidence: 0.37873194 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/e93c5527-b080-4297-9ebf-dd61012ad854.png"
+Prediction { affirmative_confidence: 0.851667, negative_confidence: 0.14833301 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/e0667c7b-82ab-4ac5-9fe0-6632b98dffef.png"
+Prediction { affirmative_confidence: 0.86301214, negative_confidence: 0.13698794 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/579478c6-625d-4853-a541-f43bd6b5a43d.png"
+Prediction { affirmative_confidence: 0.69417995, negative_confidence: 0.30582002 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/ecd79aae-6e4b-453e-86b4-0967a87057f4.png"
+Prediction { affirmative_confidence: 0.7934097, negative_confidence: 0.20659034 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/70a72f54-8c47-4b69-a26d-85807cfa662c.png"
+Prediction { affirmative_confidence: 0.6842417, negative_confidence: 0.31575823 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/04ffc7c6-e02e-434c-8e86-694638d5120f.png"
+Prediction { affirmative_confidence: 0.85361034, negative_confidence: 0.14638972 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/5b68adfc-a09d-4d2d-82d1-6be2e10445cc.png"
+Prediction { affirmative_confidence: 0.6908867, negative_confidence: 0.30911335 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/0d29433a-4419-42bf-acb5-cfdaf134c52f.png"
+Prediction { affirmative_confidence: 0.6392862, negative_confidence: 0.3607138 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/b04283e5-02d5-44d0-83f4-2280e419c91c.png"
+Prediction { affirmative_confidence: 0.7723922, negative_confidence: 0.22760782 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/559834fa-8a01-477a-a9f0-58211cb9c083.png"
+Prediction { affirmative_confidence: 0.68757385, negative_confidence: 0.31242615 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/dd3d4053-ad94-415c-90af-e9ee03bfba2d.png"
+Prediction { affirmative_confidence: 0.86840576, negative_confidence: 0.13159423 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/503f8302-50b2-42f3-bca9-b79034858624.png"
+Prediction { affirmative_confidence: 0.68757385, negative_confidence: 0.31242615 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/37ce0e7f-f0bd-47f7-8774-9093e839aabf.png"
+Prediction { affirmative_confidence: 0.85743356, negative_confidence: 0.1425664 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/602c554a-4ab5-4ad7-8d52-ae0eb90a9987.png"
+Prediction { affirmative_confidence: 0.7007072, negative_confidence: 0.29929277 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/1d65dfde-8d22-453c-97e5-66cb1cd04ebb.png"
+Prediction { affirmative_confidence: 0.84162945, negative_confidence: 0.15837052 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/afcd76e4-17e6-4a67-83b0-778f3348ec89.png"
+Prediction { affirmative_confidence: 0.89123994, negative_confidence: 0.108760044 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/befe055d-b728-480f-956d-2d51e0feffe4.png"
+Prediction { affirmative_confidence: 0.7007072, negative_confidence: 0.29929277 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/4d6724c1-2141-4d16-9ede-37517ee696ce.png"
+Prediction { affirmative_confidence: 0.89565665, negative_confidence: 0.10434341 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/5cdcc326-8125-4870-a720-d57b3d0f7c9c.png"
+Prediction { affirmative_confidence: 0.7166696, negative_confidence: 0.28333038 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/1e70ab82-396a-41b9-a225-2fbfd48f1152.png"
+Prediction { affirmative_confidence: 0.87361825, negative_confidence: 0.1263818 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/9cf7c9a4-5ddb-4a37-b54c-c55f82f4f51e.png"
+Prediction { affirmative_confidence: 0.58800733, negative_confidence: 0.41199264 }
+[a_fire_hydrant] "./test_data/4x4/a fire hydrant/not matches/22dce6e9-18c9-4c08-b55a-dd9256e6f900.png"
+Prediction { affirmative_confidence: 0.59920025, negative_confidence: 0.40079972 }
+[a_fire_hydrant] 6.5% 3 Correct, 93.5% 43 Incorrect (46 total)
+Beginning test on bicycles/bicycles...
+[bicycles] "./test_data/4x4/bicycles/matches/4a58218d-164e-4b6d-8a82-92848343a564.png"
+Prediction { affirmative_confidence: 0.94407153, negative_confidence: 0.05592852 }
+[bicycles] "./test_data/4x4/bicycles/matches/4491763e-5aa9-4390-88f3-8b48bdab60fc.png"
+Prediction { affirmative_confidence: 0.5988207, negative_confidence: 0.4011793 }
+[bicycles] "./test_data/4x4/bicycles/matches/715e7367-c31f-4b21-99b5-a23deab6c2ac.png"
+Prediction { affirmative_confidence: 0.24737741, negative_confidence: 0.7526226 }
+[bicycles] "./test_data/4x4/bicycles/matches/f7e7d9c8-642f-4756-aa27-e3c0f56df5a5.png"
+Prediction { affirmative_confidence: 0.96182615, negative_confidence: 0.038173918 }
+[bicycles] "./test_data/4x4/bicycles/matches/34aec6fd-28f7-4e23-a44d-29c3d544d57d.png"
+Prediction { affirmative_confidence: 0.928182, negative_confidence: 0.07181805 }
+[bicycles] "./test_data/4x4/bicycles/matches/1ecfb98e-c42a-4cab-bc8c-faff338234e1.png"
+Prediction { affirmative_confidence: 0.9024983, negative_confidence: 0.09750168 }
+[bicycles] "./test_data/4x4/bicycles/matches/ad949223-8027-44de-aee7-9c473f705709.png"
+Prediction { affirmative_confidence: 0.90443903, negative_confidence: 0.09556097 }
+[bicycles] 85.7% 6 Correct, 14.3% 1 Incorrect (7 total)
+[bicycles] "./test_data/4x4/bicycles/not matches/b4936ae1-127a-430f-82b6-5eacf18a97f2.png"
+Prediction { affirmative_confidence: 0.22724845, negative_confidence: 0.77275157 }
+[bicycles] "./test_data/4x4/bicycles/not matches/5e50306b-6f7d-406f-bc52-aa041280b12c.png"
+Prediction { affirmative_confidence: 0.1362259, negative_confidence: 0.8637741 }
+[bicycles] "./test_data/4x4/bicycles/not matches/6f8096fd-2ea6-4b93-8c0c-a3153eb58fba.png"
+Prediction { affirmative_confidence: 0.8714405, negative_confidence: 0.12855947 }
+[bicycles] "./test_data/4x4/bicycles/not matches/f5cb4bc8-878f-4374-abd6-caf04f738661.png"
+Prediction { affirmative_confidence: 0.09365491, negative_confidence: 0.90634507 }
+[bicycles] "./test_data/4x4/bicycles/not matches/15dcf323-e7f0-4bdc-8261-ad154607369b.png"
+Prediction { affirmative_confidence: 0.15561469, negative_confidence: 0.8443854 }
+[bicycles] "./test_data/4x4/bicycles/not matches/99c879a4-294a-48c8-b789-4e510719114a.png"
+Prediction { affirmative_confidence: 0.88567185, negative_confidence: 0.11432815 }
+[bicycles] "./test_data/4x4/bicycles/not matches/bf88b212-04a2-467a-b0f8-5eebacac30b8.png"
+Prediction { affirmative_confidence: 0.90443903, negative_confidence: 0.09556098 }
+[bicycles] "./test_data/4x4/bicycles/not matches/2a725718-c3d0-405f-8806-27def178e666.png"
+Prediction { affirmative_confidence: 0.5608919, negative_confidence: 0.43910807 }
+[bicycles] "./test_data/4x4/bicycles/not matches/17662e03-0c4c-4ec4-a64e-65115eb51218.png"
+Prediction { affirmative_confidence: 0.5988206, negative_confidence: 0.40117937 }
+[bicycles] "./test_data/4x4/bicycles/not matches/4e185548-189c-43c6-90dd-0f3ce59a00ce.png"
+Prediction { affirmative_confidence: 0.7953419, negative_confidence: 0.20465808 }
+[bicycles] "./test_data/4x4/bicycles/not matches/0afe4944-c915-40c1-818e-431650c06cc0.png"
+Prediction { affirmative_confidence: 0.082919806, negative_confidence: 0.9170802 }
+[bicycles] "./test_data/4x4/bicycles/not matches/1c7b2494-9990-491c-98c1-c56d12b43fe6.png"
+Prediction { affirmative_confidence: 0.6708639, negative_confidence: 0.32913604 }
+[bicycles] "./test_data/4x4/bicycles/not matches/d4cb00af-71a0-45f2-9111-e2acec8de544.png"
+Prediction { affirmative_confidence: 0.86637145, negative_confidence: 0.13362855 }
+[bicycles] "./test_data/4x4/bicycles/not matches/bd674725-0e80-402a-bbab-549681fb7190.png"
+Prediction { affirmative_confidence: 0.057115152, negative_confidence: 0.94288486 }
+[bicycles] "./test_data/4x4/bicycles/not matches/1f3469e4-1e06-48f3-9304-a24a76f34910.png"
+Prediction { affirmative_confidence: 0.21573904, negative_confidence: 0.78426105 }
+[bicycles] "./test_data/4x4/bicycles/not matches/eefed01a-1a9c-4c22-8851-1fbb401e15d5.png"
+Prediction { affirmative_confidence: 0.07484197, negative_confidence: 0.9251581 }
+[bicycles] "./test_data/4x4/bicycles/not matches/e428838c-ed8d-49f4-bd27-b1613412086f.png"
+Prediction { affirmative_confidence: 0.07484196, negative_confidence: 0.9251581 }
+[bicycles] "./test_data/4x4/bicycles/not matches/a7cffeb3-1675-45ea-943e-ee4cbad762b8.png"
+Prediction { affirmative_confidence: 0.52223825, negative_confidence: 0.47776166 }
+[bicycles] "./test_data/4x4/bicycles/not matches/d81132fd-4e06-4333-a183-87c7a5f5582a.png"
+Prediction { affirmative_confidence: 0.60946393, negative_confidence: 0.390536 }
+[bicycles] "./test_data/4x4/bicycles/not matches/0b9df89a-0989-4f3c-a13c-0a4267f1c625.png"
+Prediction { affirmative_confidence: 0.5, negative_confidence: 0.5 }
+[bicycles] "./test_data/4x4/bicycles/not matches/68d64fc4-6c82-43ed-96fd-2857ba3060b7.png"
+Prediction { affirmative_confidence: 0.25154376, negative_confidence: 0.74845624 }
+[bicycles] "./test_data/4x4/bicycles/not matches/cd3c792a-bb82-469f-ae13-23b28aa9d7f3.png"
+Prediction { affirmative_confidence: 0.9746547, negative_confidence: 0.02534536 }
+[bicycles] "./test_data/4x4/bicycles/not matches/c12b1024-22d0-4191-a6cf-8656886f978c.png"
+Prediction { affirmative_confidence: 0.54438883, negative_confidence: 0.45561123 }
+[bicycles] "./test_data/4x4/bicycles/not matches/782442db-97de-4f70-8e5b-9a4e1b23646f.png"
+Prediction { affirmative_confidence: 0.7526226, negative_confidence: 0.24737741 }
+[bicycles] "./test_data/4x4/bicycles/not matches/e8609345-c0dc-4a9f-a77c-f07762070ffb.png"
+Prediction { affirmative_confidence: 0.04070209, negative_confidence: 0.95929784 }
+[bicycles] 48.0% 12 Correct, 52.0% 13 Incorrect (25 total)
+Beginning test on crosswalks/crosswalks...
+[crosswalks] "./test_data/4x4/crosswalks/matches/c96677f1-8ff7-4d71-b6a4-20face1cf868.png"
+Prediction { affirmative_confidence: 0.8933493, negative_confidence: 0.106650695 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/6ec8e39c-1f65-4ee4-a947-f2b6c65e4c47.png"
+Prediction { affirmative_confidence: 0.071557656, negative_confidence: 0.9284423 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/d824d179-5426-4b19-9886-be87eb79b90e.png"
+Prediction { affirmative_confidence: 0.8953184, negative_confidence: 0.10468161 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/be10d10d-8c28-4b1d-82a1-623e6dd1781e.png"
+Prediction { affirmative_confidence: 0.5570534, negative_confidence: 0.44294664 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/95312503-63e5-4234-8052-6076f3a33864.png"
+Prediction { affirmative_confidence: 0.61264014, negative_confidence: 0.38735986 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/d6f2cd7a-b40f-4520-a392-c0fe8bfe869b.png"
+Prediction { affirmative_confidence: 0.8953184, negative_confidence: 0.10468161 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/92e183cf-6f88-44ca-97d5-637446bcd0dc.png"
+Prediction { affirmative_confidence: 0.8144907, negative_confidence: 0.1855093 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/672b22a0-8564-405c-b105-5f9ce8cbc967.png"
+Prediction { affirmative_confidence: 0.94110954, negative_confidence: 0.05889053 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/466a4c50-c302-4336-af37-da7c47ed53e2.png"
+Prediction { affirmative_confidence: 0.26482594, negative_confidence: 0.73517406 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/3dceb6ef-0987-49fc-a5de-d3a3515cf753.png"
+Prediction { affirmative_confidence: 0.58258617, negative_confidence: 0.41741386 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/7454c556-7b9c-48a4-be15-6ee690f92536.png"
+Prediction { affirmative_confidence: 0.7058208, negative_confidence: 0.2941792 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/1dc198f8-2047-49d9-b20d-5b7658963d73.png"
+Prediction { affirmative_confidence: 0.76258355, negative_confidence: 0.23741645 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/d7afb94c-aa6b-4600-b765-ebbfbcd75bce.png"
+Prediction { affirmative_confidence: 0.98344123, negative_confidence: 0.016558839 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/a1b04491-b5a8-4194-b594-fa544ae94578.png"
+Prediction { affirmative_confidence: 0.89725536, negative_confidence: 0.10274465 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/daf66525-b274-43ef-84cf-b5557adada18.png"
+Prediction { affirmative_confidence: 0.9181252, negative_confidence: 0.08187477 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/6b2132be-d93c-4731-980e-c0f8c4435a50.png"
+Prediction { affirmative_confidence: 0.95793706, negative_confidence: 0.042062916 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/6f6e2c25-09d7-458d-9fd8-4957a1dc52e1.png"
+Prediction { affirmative_confidence: 0.9387568, negative_confidence: 0.061243154 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/5aa5bbca-7e13-42c5-bf09-52d474d7d9f3.png"
+Prediction { affirmative_confidence: 0.9455626, negative_confidence: 0.054437388 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/41c62f38-6462-4858-bb99-77f817422806.png"
+Prediction { affirmative_confidence: 0.69267607, negative_confidence: 0.3073239 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/00f9da44-0305-436c-a047-b7d336d6afb7.png"
+Prediction { affirmative_confidence: 0.8830082, negative_confidence: 0.116991736 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/faf946c4-2263-438d-b943-fb9c7705a6b9.png"
+Prediction { affirmative_confidence: 0.823751, negative_confidence: 0.176249 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/799510e3-57c1-47c9-aab7-0146c179b5d4.png"
+Prediction { affirmative_confidence: 0.5104172, negative_confidence: 0.4895828 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/c458a951-4646-45f0-909f-daeee3553838.png"
+Prediction { affirmative_confidence: 0.84934944, negative_confidence: 0.15065064 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/61f0de7e-9378-4b63-a147-3993b995260a.png"
+Prediction { affirmative_confidence: 0.3439004, negative_confidence: 0.6560996 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/5fd9285f-3f27-477f-829b-dc786c4fddbf.png"
+Prediction { affirmative_confidence: 0.84934944, negative_confidence: 0.15065064 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/ee3a4179-b483-45cd-a284-6be21ed7d250.png"
+Prediction { affirmative_confidence: 0.8953184, negative_confidence: 0.10468158 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/d7c2bfff-6ee8-4e67-9f21-6395174ac569.png"
+Prediction { affirmative_confidence: 0.26482594, negative_confidence: 0.73517406 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/3d9714c2-b398-43bf-a96b-25279cc98915.png"
+Prediction { affirmative_confidence: 0.8670783, negative_confidence: 0.13292167 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/0f1cf2f3-dbf6-4c30-8586-5ae64c558396.png"
+Prediction { affirmative_confidence: 0.5876445, negative_confidence: 0.4123555 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/2194b143-fe0b-4c74-954f-75bb6b3dc30b.png"
+Prediction { affirmative_confidence: 0.245044, negative_confidence: 0.75495595 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/b9b0e48a-c1b8-4dde-8852-853dc0ebfba2.png"
+Prediction { affirmative_confidence: 0.484377, negative_confidence: 0.51562303 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/43aa142b-30bc-4aba-ab48-33ddda453529.png"
+Prediction { affirmative_confidence: 0.82070524, negative_confidence: 0.17929475 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/0a969f4b-ae53-4a31-8614-793db3e4042b.png"
+Prediction { affirmative_confidence: 0.72698116, negative_confidence: 0.2730189 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/de227b11-973e-48f4-bef1-b5c71ecf3e8e.png"
+Prediction { affirmative_confidence: 0.7982304, negative_confidence: 0.20176959 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/90a43b1b-339b-4efa-acc8-3f5f6070369d.png"
+Prediction { affirmative_confidence: 0.09896584, negative_confidence: 0.9010341 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/06de9a9f-e966-4a02-894c-68bd9fad763d.png"
+Prediction { affirmative_confidence: 0.061243154, negative_confidence: 0.9387568 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/6591e769-7012-49d6-881d-0d859f4fb58e.png"
+Prediction { affirmative_confidence: 0.6560996, negative_confidence: 0.3439004 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/eca4f0e7-3a1d-40a7-b05b-6bfbb766f1c8.png"
+Prediction { affirmative_confidence: 0.5570534, negative_confidence: 0.44294664 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/367cd676-48a6-4568-a33e-513811a036b7.png"
+Prediction { affirmative_confidence: 0.9064704, negative_confidence: 0.09352957 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/00b6e07a-4f3d-4760-ae49-f0109fbdb5c4.png"
+Prediction { affirmative_confidence: 0.58258617, negative_confidence: 0.4174138 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/7ea91dea-b785-4193-b467-ba400853b76f.png"
+Prediction { affirmative_confidence: 0.53640103, negative_confidence: 0.46359903 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/4c043ca9-fcee-4de1-b878-edf28f30d578.png"
+Prediction { affirmative_confidence: 0.19188885, negative_confidence: 0.80811113 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/1d3bd5ae-256d-4daa-b17f-44a6f79d4311.png"
+Prediction { affirmative_confidence: 0.91163737, negative_confidence: 0.08836263 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/fb0ab49b-702d-4393-aac2-97ea8c839b69.png"
+Prediction { affirmative_confidence: 0.4174138, negative_confidence: 0.58258617 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/04cb8ae5-9f24-4b5f-9240-97be91fce7ec.png"
+Prediction { affirmative_confidence: 0.484377, negative_confidence: 0.51562303 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/ddd69fed-184f-4190-aa59-aac113f1939a.png"
+Prediction { affirmative_confidence: 0.40731558, negative_confidence: 0.5926844 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/dd49215a-7c4f-415f-a326-9909d9ed170d.png"
+Prediction { affirmative_confidence: 0.9476684, negative_confidence: 0.052331623 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/02f301f0-9a80-439e-b019-105327b036bb.png"
+Prediction { affirmative_confidence: 0.67921084, negative_confidence: 0.32078913 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/b9ceb1d2-1aa0-4d6c-9a49-dee8c3f75dad.png"
+Prediction { affirmative_confidence: 0.2120256, negative_confidence: 0.78797436 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/1c451ee6-2ab1-4939-80b9-cea4a2f75477.png"
+Prediction { affirmative_confidence: 0.16735601, negative_confidence: 0.8326439 }
+[crosswalks] "./test_data/4x4/crosswalks/matches/2e5795c9-061f-47be-b9a4-ae93f8ae60e3.png"
+Prediction { affirmative_confidence: 0.9506832, negative_confidence: 0.049316794 }
+[crosswalks] 72.5% 37 Correct, 27.5% 14 Incorrect (51 total)
+[crosswalks] "./test_data/4x4/crosswalks/not matches/724b2f46-04f7-4dbf-aeb8-23a445765d14.png"
+Prediction { affirmative_confidence: 0.07879613, negative_confidence: 0.9212039 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/23da17ce-0228-47d9-b478-8e086b97cf56.png"
+Prediction { affirmative_confidence: 0.04739919, negative_confidence: 0.9526008 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/a2fb7e85-9326-4dc8-b968-a18ec1d46bc0.png"
+Prediction { affirmative_confidence: 0.09005567, negative_confidence: 0.90994436 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/a5e7d127-14b6-4773-b787-6a5f11288f58.png"
+Prediction { affirmative_confidence: 0.09177785, negative_confidence: 0.9082222 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/be652fbd-d432-4870-9ed5-fb44af45f804.png"
+Prediction { affirmative_confidence: 0.04123126, negative_confidence: 0.9587687 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/2dd12733-7287-454e-81bc-1ed8597eb8ea.png"
+Prediction { affirmative_confidence: 0.05551999, negative_confidence: 0.94448 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/a0fb8425-fd95-49ac-843a-a47bce0bf6b0.png"
+Prediction { affirmative_confidence: 0.1855093, negative_confidence: 0.8144907 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/43240b0b-2837-48ae-a341-bfa7f9b35464.png"
+Prediction { affirmative_confidence: 0.119161546, negative_confidence: 0.88083845 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/c2e404e3-60ca-4e0e-a490-87c3e436661d.png"
+Prediction { affirmative_confidence: 0.1305384, negative_confidence: 0.8694616 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/da490f24-f4cf-47d1-ac7f-3b2b44f7b11f.png"
+Prediction { affirmative_confidence: 0.024405781, negative_confidence: 0.9755942 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/ffe87605-8255-4412-8dbb-8a9f498e5c2b.png"
+Prediction { affirmative_confidence: 0.12588076, negative_confidence: 0.8741193 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/a729eb5f-2355-4958-a980-eeae21391f40.png"
+Prediction { affirmative_confidence: 0.1560611, negative_confidence: 0.84393895 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/bebbc0fb-8e1c-4a2b-8557-66ac0339f095.png"
+Prediction { affirmative_confidence: 0.050302982, negative_confidence: 0.949697 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/d923bb10-a3da-401e-926f-8347101f044d.png"
+Prediction { affirmative_confidence: 0.14539538, negative_confidence: 0.8546046 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/536998b8-35f7-492a-ab99-8a0bfcaf617f.png"
+Prediction { affirmative_confidence: 0.17027985, negative_confidence: 0.8297201 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/d51c6121-4394-47a4-bc87-598e259f7206.png"
+Prediction { affirmative_confidence: 0.13053839, negative_confidence: 0.8694616 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/1816d109-7d1e-4847-a5e0-ef83d2ddfd24.png"
+Prediction { affirmative_confidence: 0.08669841, negative_confidence: 0.9133015 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/3ba78718-f280-4e7c-b5bb-b020ab5c8f05.png"
+Prediction { affirmative_confidence: 0.14282529, negative_confidence: 0.8571747 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/5d5c447c-8621-45ae-8283-5315476fceaf.png"
+Prediction { affirmative_confidence: 0.23741645, negative_confidence: 0.76258355 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/48c88cc0-c13c-48fa-b80c-b06091d2f27e.png"
+Prediction { affirmative_confidence: 0.064937264, negative_confidence: 0.93506277 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/25a493ba-72ad-4a21-94fc-4cc3f5b2f8da.png"
+Prediction { affirmative_confidence: 0.09531125, negative_confidence: 0.9046888 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/eb46a3bc-e21b-4981-bd16-35ae162e2706.png"
+Prediction { affirmative_confidence: 0.066214055, negative_confidence: 0.9337859 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/1224a6e2-c24a-488e-be8e-3f3dc244b573.png"
+Prediction { affirmative_confidence: 0.071557656, negative_confidence: 0.9284423 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/ea292c59-1d0a-46d1-b0db-bc81c5d2fa94.png"
+Prediction { affirmative_confidence: 0.15333632, negative_confidence: 0.84666365 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/0352507d-871c-4cdc-9d90-537a91cf9b36.png"
+Prediction { affirmative_confidence: 0.13292167, negative_confidence: 0.8670783 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/d92de4c1-af91-4bc6-ac03-9e2f968e11a8.png"
+Prediction { affirmative_confidence: 0.09896584, negative_confidence: 0.9010341 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/3bc242a8-18a4-407e-8e4c-b77bf17b38f9.png"
+Prediction { affirmative_confidence: 0.027566459, negative_confidence: 0.9724335 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/2cc76727-1c61-49cc-807c-2449c94a4237.png"
+Prediction { affirmative_confidence: 0.08836267, negative_confidence: 0.91163737 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/3b275f6f-9664-43bf-a346-14c21b2a4925.png"
+Prediction { affirmative_confidence: 0.119161546, negative_confidence: 0.88083845 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/b9922bf3-bd96-4a94-8e00-d23cb9d77cf1.png"
+Prediction { affirmative_confidence: 0.264826, negative_confidence: 0.73517406 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/1ccc3679-ef26-4667-a7b0-6ea689f8f721.png"
+Prediction { affirmative_confidence: 0.08345487, negative_confidence: 0.91654515 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/ab4eb900-e507-48fa-9e07-972e7a8dc707.png"
+Prediction { affirmative_confidence: 0.26078895, negative_confidence: 0.739211 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/b3ad8864-cea3-4fe9-8943-2aaf0e8e7e21.png"
+Prediction { affirmative_confidence: 0.06883786, negative_confidence: 0.9311622 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/49d922c5-df1e-4143-ba47-d8ff2671fcff.png"
+Prediction { affirmative_confidence: 0.09896584, negative_confidence: 0.9010341 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/e9d68f20-3bca-41c0-98fd-389eec89df92.png"
+Prediction { affirmative_confidence: 0.2689027, negative_confidence: 0.73109734 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/6a8a42f3-9084-4f84-8b41-b351fb0c9a42.png"
+Prediction { affirmative_confidence: 0.052331623, negative_confidence: 0.9476684 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/7b032964-7c54-45fb-a015-adc308770dde.png"
+Prediction { affirmative_confidence: 0.20856518, negative_confidence: 0.7914349 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/39835409-9e07-4c0d-8553-4bc56f901b0c.png"
+Prediction { affirmative_confidence: 0.03240496, negative_confidence: 0.96759504 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/d344001a-8e1f-4c98-a856-fb57f7a6331a.png"
+Prediction { affirmative_confidence: 0.08836265, negative_confidence: 0.91163737 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/2c9e0e4f-1657-4798-8f33-a92829aea00d.png"
+Prediction { affirmative_confidence: 0.07437634, negative_confidence: 0.92562366 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/36ff8692-f751-4e23-b5de-8b6c71ac2797.png"
+Prediction { affirmative_confidence: 0.07437634, negative_confidence: 0.92562366 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/f09419d5-58b6-451b-9c02-65a273363ed1.png"
+Prediction { affirmative_confidence: 0.20856518, negative_confidence: 0.7914349 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/5392765c-8d4e-4c6d-8c51-2fdc9a3a1c17.png"
+Prediction { affirmative_confidence: 0.2120256, negative_confidence: 0.78797436 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/c9905490-2beb-491d-a382-9123b8ed6131.png"
+Prediction { affirmative_confidence: 0.35813954, negative_confidence: 0.6418605 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/c0bc3cf7-e667-48f9-b0f4-c6d339e5a294.png"
+Prediction { affirmative_confidence: 0.264826, negative_confidence: 0.73517406 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/addc85a9-82e9-49f5-83cb-093fe80c398f.png"
+Prediction { affirmative_confidence: 0.14282529, negative_confidence: 0.8571747 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/878274fb-500d-41ff-b080-a7f8d98714d2.png"
+Prediction { affirmative_confidence: 0.052331623, negative_confidence: 0.9476684 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/2c371813-a8f6-4fb2-b5c8-a4e8241bec47.png"
+Prediction { affirmative_confidence: 0.15333632, negative_confidence: 0.84666365 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/a3ec8c17-6d85-4873-9824-f5b4d3715483.png"
+Prediction { affirmative_confidence: 0.09712321, negative_confidence: 0.90287673 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/a6f97e98-04f7-432c-8cef-fdb51f842ca0.png"
+Prediction { affirmative_confidence: 0.062452167, negative_confidence: 0.93754786 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/3525dd50-2d86-4b8b-ba80-ce953383772b.png"
+Prediction { affirmative_confidence: 0.12360574, negative_confidence: 0.87639433 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/394b488a-a019-4540-9517-43790422490c.png"
+Prediction { affirmative_confidence: 0.049316794, negative_confidence: 0.9506832 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/ced6d8f2-cbeb-44ce-b820-e0ea9bb3d554.png"
+Prediction { affirmative_confidence: 0.14282529, negative_confidence: 0.8571747 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/72347dfb-7572-47cd-80ea-6ab69e4122b0.png"
+Prediction { affirmative_confidence: 0.07582366, negative_confidence: 0.92417634 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/ec168743-590a-4efc-8fb7-692c79145d66.png"
+Prediction { affirmative_confidence: 0.072954446, negative_confidence: 0.9270455 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/33af1511-6b95-4f92-b64b-bd6c0e92d0f5.png"
+Prediction { affirmative_confidence: 0.11485624, negative_confidence: 0.8851437 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/eeff67d0-4456-43dc-b0a3-fd7a1196a341.png"
+Prediction { affirmative_confidence: 0.09531125, negative_confidence: 0.9046888 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/27b41fdc-d231-46ad-9c49-5f884c8409ac.png"
+Prediction { affirmative_confidence: 0.060056068, negative_confidence: 0.93994397 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/7d9c81d8-9827-40c5-b927-e76bdb705ff1.png"
+Prediction { affirmative_confidence: 0.05551999, negative_confidence: 0.94448 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/e94c084a-9688-4679-8c84-6b259908b538.png"
+Prediction { affirmative_confidence: 0.13292167, negative_confidence: 0.8670783 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/fedf8bd2-5e38-4f80-81d8-a737dddb3572.png"
+Prediction { affirmative_confidence: 0.14282529, negative_confidence: 0.8571747 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/9a754911-90eb-4842-8b71-6d9cfcfeedd3.png"
+Prediction { affirmative_confidence: 0.11485622, negative_confidence: 0.8851437 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/119fbf5c-4d9e-411b-9f29-bcc686697b74.png"
+Prediction { affirmative_confidence: 0.07879611, negative_confidence: 0.9212039 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/0d3ebc4c-90c6-4f8d-bee8-4a712832d016.png"
+Prediction { affirmative_confidence: 0.06621404, negative_confidence: 0.9337859 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/337e19cd-f458-4353-96f0-288f1ad09736.png"
+Prediction { affirmative_confidence: 0.10083953, negative_confidence: 0.8991605 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/6ce703d2-227f-46bd-8370-4b20a0218c73.png"
+Prediction { affirmative_confidence: 0.06621404, negative_confidence: 0.9337859 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/1b3e2c2c-196e-4029-9dae-33ee94141161.png"
+Prediction { affirmative_confidence: 0.060056068, negative_confidence: 0.93994397 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/51957732-7a33-435f-9f5c-54236f646707.png"
+Prediction { affirmative_confidence: 0.08836265, negative_confidence: 0.91163737 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/03c76f10-b8aa-4c8a-a735-8ad9f1440593.png"
+Prediction { affirmative_confidence: 0.085062616, negative_confidence: 0.9149374 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/86bb2dc4-5735-4718-b750-627847df161c.png"
+Prediction { affirmative_confidence: 0.10865233, negative_confidence: 0.89134765 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/2ddc08e7-2634-4a21-a413-f0619c53ca50.png"
+Prediction { affirmative_confidence: 0.12819153, negative_confidence: 0.87180847 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/5c496d5e-e637-43df-b9f1-d94fe698ef13.png"
+Prediction { affirmative_confidence: 0.026471023, negative_confidence: 0.973529 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/49791bff-582a-4934-b306-007b418802f7.png"
+Prediction { affirmative_confidence: 0.12360574, negative_confidence: 0.87639433 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/31b30656-840e-4af1-b2a3-5cf9e1a6fc71.png"
+Prediction { affirmative_confidence: 0.0772968, negative_confidence: 0.92270315 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/a4eeff55-7ad2-4ad9-a978-38e99a78502b.png"
+Prediction { affirmative_confidence: 0.176249, negative_confidence: 0.823751 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/9991dd9f-1c6b-4af6-a57e-00a2b4574bfc.png"
+Prediction { affirmative_confidence: 0.12588076, negative_confidence: 0.8741193 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/cdad2e19-5ff6-4276-b493-62809c4fe7d0.png"
+Prediction { affirmative_confidence: 0.08345489, negative_confidence: 0.91654515 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/7ed1b807-8039-4319-a41b-497b32b16789.png"
+Prediction { affirmative_confidence: 0.10468161, negative_confidence: 0.8953184 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/635f742c-c9c6-44ac-9a25-53bc8fef0838.png"
+Prediction { affirmative_confidence: 0.17624903, negative_confidence: 0.823751 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/17026571-4cf6-4fea-b8c8-4ab7c12d0ef9.png"
+Prediction { affirmative_confidence: 0.11699173, negative_confidence: 0.8830083 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/ed44d218-8aa2-44ca-ba33-f30315c505d7.png"
+Prediction { affirmative_confidence: 0.15606111, negative_confidence: 0.8439389 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/af15a827-3411-4417-b717-3f6057319ab7.png"
+Prediction { affirmative_confidence: 0.1329217, negative_confidence: 0.8670783 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/f3537c82-23cc-4af6-a917-ecdbf6b0fb21.png"
+Prediction { affirmative_confidence: 0.057746217, negative_confidence: 0.9422537 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/5538da52-4b01-4b0f-aab6-00569729e4c5.png"
+Prediction { affirmative_confidence: 0.035835773, negative_confidence: 0.96416426 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/8737a8a1-63f6-4749-b0d5-932b3cbe24d6.png"
+Prediction { affirmative_confidence: 0.11068691, negative_confidence: 0.88931316 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/36b2059a-ce54-47f8-a8b0-824e12e2758c.png"
+Prediction { affirmative_confidence: 0.10274467, negative_confidence: 0.89725536 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/b3210835-0edc-4e33-b369-9d871c891cdf.png"
+Prediction { affirmative_confidence: 0.12819153, negative_confidence: 0.87180847 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/5ad970ea-abf1-4656-b524-af7760437ee3.png"
+Prediction { affirmative_confidence: 0.13292167, negative_confidence: 0.8670783 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/9510bb7d-ddfe-4d28-8307-78eea1f8361a.png"
+Prediction { affirmative_confidence: 0.11485624, negative_confidence: 0.8851437 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/f672d230-90e4-4a8f-9827-9da16457287a.png"
+Prediction { affirmative_confidence: 0.21552783, negative_confidence: 0.78447217 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/3ef07d07-2a2e-488a-bf44-203cc778aaac.png"
+Prediction { affirmative_confidence: 0.08506263, negative_confidence: 0.9149374 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/dc34f3e5-59e7-4b0a-8fde-947c94815a62.png"
+Prediction { affirmative_confidence: 0.17027985, negative_confidence: 0.8297202 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/b3fb0307-2a49-467d-a2b7-d96d6014bd8b.png"
+Prediction { affirmative_confidence: 0.09712321, negative_confidence: 0.90287673 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/9c6d6724-b7da-4560-b764-50967116fd73.png"
+Prediction { affirmative_confidence: 0.09005567, negative_confidence: 0.90994436 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/8f35954f-2079-4846-9594-ed1d7eda52d8.png"
+Prediction { affirmative_confidence: 0.17929475, negative_confidence: 0.82070524 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/308810fb-63a7-481d-937a-c945d5323d88.png"
+Prediction { affirmative_confidence: 0.07155765, negative_confidence: 0.9284424 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/89bb0ce4-68da-4910-a679-a502c1799f78.png"
+Prediction { affirmative_confidence: 0.11485624, negative_confidence: 0.8851437 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/a8106050-12bd-4711-804a-9b7fb1ae2e42.png"
+Prediction { affirmative_confidence: 0.1428253, negative_confidence: 0.8571747 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/ff4751f3-8399-4bb9-9f9f-01cc92e8c1cf.png"
+Prediction { affirmative_confidence: 0.123605736, negative_confidence: 0.8763942 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/da8b389c-72ef-4c79-b90e-8661ddb0f7a5.png"
+Prediction { affirmative_confidence: 0.09712321, negative_confidence: 0.90287673 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/edf6f177-0085-4ef2-8ac2-a0040ad2fc3b.png"
+Prediction { affirmative_confidence: 0.05774624, negative_confidence: 0.9422537 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/ef99a942-3d33-4f9d-9511-9a5133558592.png"
+Prediction { affirmative_confidence: 0.19843438, negative_confidence: 0.80156565 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/23f2b579-95b8-45e3-99a2-d83dac29bba0.png"
+Prediction { affirmative_confidence: 0.03961494, negative_confidence: 0.960385 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/8bb94ba2-200e-41dc-9e9b-eb9612711313.png"
+Prediction { affirmative_confidence: 0.09531125, negative_confidence: 0.9046888 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/a20ccf4a-1173-430f-8160-b426050490a6.png"
+Prediction { affirmative_confidence: 0.106650695, negative_confidence: 0.8933493 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/3d90d3b2-2534-4952-95a0-22c86934cc62.png"
+Prediction { affirmative_confidence: 0.051307812, negative_confidence: 0.9486922 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/219a387e-8f93-4e36-8076-a9f323122e5a.png"
+Prediction { affirmative_confidence: 0.08032199, negative_confidence: 0.91967803 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/2008a6a5-1683-49db-871d-d3be6c327120.png"
+Prediction { affirmative_confidence: 0.09352957, negative_confidence: 0.9064704 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/f789fd22-4dde-457c-80f1-d12f52bb4ff9.png"
+Prediction { affirmative_confidence: 0.0772968, negative_confidence: 0.92270315 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/66fec9cf-ebd4-48ff-94d6-845720e61a37.png"
+Prediction { affirmative_confidence: 0.054437373, negative_confidence: 0.9455626 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/31708dfa-ba85-40b5-9d79-44e559ad6903.png"
+Prediction { affirmative_confidence: 0.064937264, negative_confidence: 0.93506277 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/33522dcb-2b7f-4e68-a027-2dc827a095fc.png"
+Prediction { affirmative_confidence: 0.12136611, negative_confidence: 0.8786339 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/107b03d6-29a2-4a67-b88a-c94a4e7fadd6.png"
+Prediction { affirmative_confidence: 0.93631655, negative_confidence: 0.06368343 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/89b39f35-3965-4a96-905f-829a1082bd49.png"
+Prediction { affirmative_confidence: 0.0311234, negative_confidence: 0.9688766 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/41f467c6-f335-4519-b1c8-bb58dae74f07.png"
+Prediction { affirmative_confidence: 0.0772968, negative_confidence: 0.92270315 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/6fcdd70c-1e01-4787-9bb5-c7636b465432.png"
+Prediction { affirmative_confidence: 0.072954446, negative_confidence: 0.9270455 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/b2627dd1-b08a-437e-9e9c-feb0f8742ccd.png"
+Prediction { affirmative_confidence: 0.16162893, negative_confidence: 0.83837104 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/7d08a69c-c54d-4be8-91c3-f136c4df3f03.png"
+Prediction { affirmative_confidence: 0.6700636, negative_confidence: 0.32993636 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/d7c69b24-1b90-4355-8dc6-4197f6e2547e.png"
+Prediction { affirmative_confidence: 0.024405787, negative_confidence: 0.9755942 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/ff0e16f2-ac46-426c-8161-367abd37c38b.png"
+Prediction { affirmative_confidence: 0.09005567, negative_confidence: 0.90994436 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/a1aeee7f-29a0-4ac6-998b-5cd7e9e9512f.png"
+Prediction { affirmative_confidence: 0.21907179, negative_confidence: 0.7809282 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/a201d7ca-92a2-4864-97ce-86ded08f0bcf.png"
+Prediction { affirmative_confidence: 0.047399186, negative_confidence: 0.9526009 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/0889e838-2955-45a1-8f87-c257a47101f4.png"
+Prediction { affirmative_confidence: 0.062452167, negative_confidence: 0.93754786 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/af6d1df3-b80f-4ab2-82a8-2a7f15877e69.png"
+Prediction { affirmative_confidence: 0.2689027, negative_confidence: 0.7310973 }
+[crosswalks] "./test_data/4x4/crosswalks/not matches/c05494c0-4fb0-4895-bc7b-b82af8391d99.png"
+Prediction { affirmative_confidence: 0.10083953, negative_confidence: 0.8991605 }
+[crosswalks] 98.4% 123 Correct, 1.6% 2 Incorrect (125 total)
+Beginning test on bus/bus...
+[bus] "./test_data/4x4/bus/matches/120d9659-2841-4b9b-9ba1-cd81ee72f4a9.png"
+Prediction { affirmative_confidence: 0.96555984, negative_confidence: 0.034440197 }
+[bus] "./test_data/4x4/bus/matches/4ef51556-c009-468b-85a6-b57ff0e0b41a.png"
+Prediction { affirmative_confidence: 0.55003506, negative_confidence: 0.44996494 }
+[bus] "./test_data/4x4/bus/matches/97fc6584-63f1-4dfd-ae2b-78fc4e197f89.png"
+Prediction { affirmative_confidence: 0.9128947, negative_confidence: 0.087105244 }
+[bus] "./test_data/4x4/bus/matches/39c9d017-a176-4773-890c-82de53efaca2.png"
+Prediction { affirmative_confidence: 0.62764144, negative_confidence: 0.37235856 }
+[bus] "./test_data/4x4/bus/matches/fcdb2628-5335-498c-941b-13728c5d2467.png"
+Prediction { affirmative_confidence: 0.2200942, negative_confidence: 0.7799058 }
+[bus] "./test_data/4x4/bus/matches/f6f60553-1773-4682-96b8-aa32594cb4fe.png"
+Prediction { affirmative_confidence: 0.90282506, negative_confidence: 0.0971749 }
+[bus] "./test_data/4x4/bus/matches/6a7c95ec-34e4-4824-9169-354f9145c2f8.png"
+Prediction { affirmative_confidence: 0.9364866, negative_confidence: 0.06351338 }
+[bus] "./test_data/4x4/bus/matches/c0057ee9-50bb-4b4a-916b-1daa1f0e0447.png"
+Prediction { affirmative_confidence: 0.3630214, negative_confidence: 0.63697857 }
+[bus] "./test_data/4x4/bus/matches/8b57a68b-7751-44bc-ae32-15e39b594636.png"
+Prediction { affirmative_confidence: 0.11022474, negative_confidence: 0.8897753 }
+[bus] "./test_data/4x4/bus/matches/5af11aac-c08e-4f0c-b162-6c780db21238.png"
+Prediction { affirmative_confidence: 0.945398, negative_confidence: 0.05460206 }
+[bus] "./test_data/4x4/bus/matches/154ae432-8373-4083-af8e-2f90ca619748.png"
+Prediction { affirmative_confidence: 0.12699452, negative_confidence: 0.87300545 }
+[bus] "./test_data/4x4/bus/matches/2fe3f333-16e4-49ab-83a1-ea7238faaadc.png"
+Prediction { affirmative_confidence: 0.9474344, negative_confidence: 0.052565567 }
+[bus] "./test_data/4x4/bus/matches/33583d75-7fbc-4dd4-adb3-244588165bb0.png"
+Prediction { affirmative_confidence: 0.6276415, negative_confidence: 0.37235856 }
+[bus] "./test_data/4x4/bus/matches/4fbb966b-b60e-459a-bd0c-9a14971b82e0.png"
+Prediction { affirmative_confidence: 0.866175, negative_confidence: 0.13382497 }
+[bus] "./test_data/4x4/bus/matches/7502dfe4-1371-4384-bca7-f5eedc43d902.png"
+Prediction { affirmative_confidence: 0.8438059, negative_confidence: 0.15619405 }
+[bus] "./test_data/4x4/bus/matches/c36576fc-b3fb-4011-94ff-de556cf58a8a.png"
+Prediction { affirmative_confidence: 0.89172935, negative_confidence: 0.108270645 }
+[bus] "./test_data/4x4/bus/matches/1810fdbc-eef2-47b2-8ff0-c5b935bc5756.png"
+Prediction { affirmative_confidence: 0.8124379, negative_confidence: 0.1875621 }
+[bus] "./test_data/4x4/bus/matches/6650c9d9-b481-4155-b5c5-bc07b9be35f2.png"
+Prediction { affirmative_confidence: 0.6182081, negative_confidence: 0.38179192 }
+[bus] "./test_data/4x4/bus/matches/38031fda-4df9-43c0-a6d3-6f08d15786db.png"
+Prediction { affirmative_confidence: 0.89172935, negative_confidence: 0.10827059 }
+[bus] "./test_data/4x4/bus/matches/17ba119b-09de-4f2e-b667-5571e29856b1.png"
+Prediction { affirmative_confidence: 0.9668707, negative_confidence: 0.033129316 }
+[bus] "./test_data/4x4/bus/matches/b758869e-373a-4b3b-b164-3d8cfc42196f.png"
+Prediction { affirmative_confidence: 0.9648858, negative_confidence: 0.03511425 }
+[bus] "./test_data/4x4/bus/matches/205fe3f3-0654-4c77-8619-7325be474dac.png"
+Prediction { affirmative_confidence: 0.47491956, negative_confidence: 0.5250805 }
+[bus] "./test_data/4x4/bus/matches/a93ca8ae-b2b6-4de5-8a8e-e800737147d8.png"
+Prediction { affirmative_confidence: 0.65079105, negative_confidence: 0.349209 }
+[bus] "./test_data/4x4/bus/matches/677bd78e-243b-4aec-b94e-259adaa0abfa.png"
+Prediction { affirmative_confidence: 0.87521523, negative_confidence: 0.12478481 }
+[bus] "./test_data/4x4/bus/matches/6700251b-7d4b-448c-8428-72a0b7ff0c7a.png"
+Prediction { affirmative_confidence: 0.29243767, negative_confidence: 0.70756227 }
+[bus] "./test_data/4x4/bus/matches/0089e82a-b6ef-4922-a2e2-eb181726df41.png"
+Prediction { affirmative_confidence: 0.7318563, negative_confidence: 0.26814368 }
+[bus] "./test_data/4x4/bus/matches/e53b72e9-8a00-4b9b-9f9d-8fa8ad057bd3.png"
+Prediction { affirmative_confidence: 0.7435124, negative_confidence: 0.25648758 }
+[bus] "./test_data/4x4/bus/matches/4d26cd3d-b38f-4902-aec3-24b16407bb2a.png"
+Prediction { affirmative_confidence: 0.9328078, negative_confidence: 0.067192264 }
+[bus] "./test_data/4x4/bus/matches/2d9bef82-3ad8-46f6-99d2-b1d1e4f25b8f.png"
+Prediction { affirmative_confidence: 0.75109625, negative_confidence: 0.24890372 }
+[bus] "./test_data/4x4/bus/matches/ed90a69b-6a86-44aa-a097-27998a92e7c7.png"
+Prediction { affirmative_confidence: 0.7548315, negative_confidence: 0.24516848 }
+[bus] "./test_data/4x4/bus/matches/f23758ca-1b73-4c5f-bc69-4a062fae2366.png"
+Prediction { affirmative_confidence: 0.9248505, negative_confidence: 0.07514945 }
+[bus] 80.6% 25 Correct, 19.4% 6 Incorrect (31 total)
+[bus] "./test_data/4x4/bus/not matches/bda05ceb-4a5c-496a-a96e-a934d30dd162.png"
+Prediction { affirmative_confidence: 0.15619409, negative_confidence: 0.8438059 }
+[bus] "./test_data/4x4/bus/not matches/e790ba17-692d-4ab5-a295-7c62f7b36f57.png"
+Prediction { affirmative_confidence: 0.12699452, negative_confidence: 0.87300545 }
+[bus] "./test_data/4x4/bus/not matches/76f07c96-0bf9-4b00-954e-3f2fca228523.png"
+Prediction { affirmative_confidence: 0.04511628, negative_confidence: 0.95488375 }
+[bus] "./test_data/4x4/bus/not matches/c85686a7-2b9f-4b49-a85e-d1f752fd2307.png"
+Prediction { affirmative_confidence: 0.14589734, negative_confidence: 0.8541027 }
+[bus] "./test_data/4x4/bus/not matches/31605833-c695-489c-8409-650a5f0eaacb.png"
+Prediction { affirmative_confidence: 0.07944515, negative_confidence: 0.9205549 }
+[bus] "./test_data/4x4/bus/not matches/a0e5c2be-a402-49fe-a4b9-1df6f39b6793.png"
+Prediction { affirmative_confidence: 0.17273936, negative_confidence: 0.8272606 }
+[bus] "./test_data/4x4/bus/not matches/b1fb6ac5-12b4-46e7-97ec-7265359859ce.png"
+Prediction { affirmative_confidence: 0.08396411, negative_confidence: 0.9160359 }
+[bus] "./test_data/4x4/bus/not matches/2da29e4e-7fe5-4755-9d2c-2512adfca9af.png"
+Prediction { affirmative_confidence: 0.22706567, negative_confidence: 0.7729343 }
+[bus] "./test_data/4x4/bus/not matches/f7d12168-cec6-4bf7-b98a-4aabd0e944ad.png"
+Prediction { affirmative_confidence: 0.095427334, negative_confidence: 0.90457267 }
+[bus] "./test_data/4x4/bus/not matches/01f22bcd-e981-4c23-aa81-976aa3d18d53.png"
+Prediction { affirmative_confidence: 0.13616988, negative_confidence: 0.86383015 }
+[bus] "./test_data/4x4/bus/not matches/f2abca2b-3813-4a13-bc24-436523ebb969.png"
+Prediction { affirmative_confidence: 0.15619409, negative_confidence: 0.8438059 }
+[bus] "./test_data/4x4/bus/not matches/49ac6553-74f6-48b7-8aae-8025cad0f316.png"
+Prediction { affirmative_confidence: 0.55003506, negative_confidence: 0.44996494 }
+[bus] "./test_data/4x4/bus/not matches/f964491d-d858-4007-9a55-b406d54b2b19.png"
+Prediction { affirmative_confidence: 0.27609825, negative_confidence: 0.72390175 }
+[bus] "./test_data/4x4/bus/not matches/edd383e2-7617-4e3e-91ce-a8f53b181635.png"
+Prediction { affirmative_confidence: 0.4799296, negative_confidence: 0.52007043 }
+[bus] "./test_data/4x4/bus/not matches/30c45406-4332-424b-b602-4bf635c152f1.png"
+Prediction { affirmative_confidence: 0.06975373, negative_confidence: 0.93024623 }
+[bus] "./test_data/4x4/bus/not matches/ae9bf86a-e2ff-4d12-b766-c883f6e5cfc0.png"
+Prediction { affirmative_confidence: 0.29661015, negative_confidence: 0.7033899 }
+[bus] "./test_data/4x4/bus/not matches/118e8cb6-5b9c-4fd2-8573-54c193aab11b.png"
+Prediction { affirmative_confidence: 0.0710681, negative_confidence: 0.9289319 }
+[bus] "./test_data/4x4/bus/not matches/bd4f6158-900a-44f4-8901-36a5e9eff8ab.png"
+Prediction { affirmative_confidence: 0.053574674, negative_confidence: 0.9464254 }
+[bus] "./test_data/4x4/bus/not matches/f4ddb6bd-a46d-4df5-ac0a-bebb5883dbc6.png"
+Prediction { affirmative_confidence: 0.3267494, negative_confidence: 0.67325056 }
+[bus] "./test_data/4x4/bus/not matches/b6c89055-f00a-4bf5-a6e2-72b52c6e0edf.png"
+Prediction { affirmative_confidence: 0.9289319, negative_confidence: 0.07106808 }
+[bus] "./test_data/4x4/bus/not matches/3f45a294-7e5d-432d-a9b2-0f93348d2487.png"
+Prediction { affirmative_confidence: 0.17855427, negative_confidence: 0.82144576 }
+[bus] "./test_data/4x4/bus/not matches/571ca5a5-bf79-47c1-a94e-3d2e9d22ea30.png"
+Prediction { affirmative_confidence: 0.1269945, negative_confidence: 0.8730055 }
+[bus] "./test_data/4x4/bus/not matches/dd77cbf3-0959-42fe-a3a0-4cb9fe6254b7.png"
+Prediction { affirmative_confidence: 0.09370794, negative_confidence: 0.906292 }
+[bus] "./test_data/4x4/bus/not matches/9a428477-d9df-48e3-b469-454af7e12c99.png"
+Prediction { affirmative_confidence: 0.048705973, negative_confidence: 0.95129406 }
+[bus] "./test_data/4x4/bus/not matches/87f08fab-0c93-4ae3-ada7-4485fcb18128.png"
+Prediction { affirmative_confidence: 0.19691539, negative_confidence: 0.8030847 }
+[bus] "./test_data/4x4/bus/not matches/4816bbfc-2303-469f-9d61-50791c506db9.png"
+Prediction { affirmative_confidence: 0.11022474, negative_confidence: 0.8897753 }
+[bus] "./test_data/4x4/bus/not matches/00f3b552-6e23-4fbb-8e9f-fa19f5a0ca52.png"
+Prediction { affirmative_confidence: 0.27210274, negative_confidence: 0.7278972 }
+[bus] "./test_data/4x4/bus/not matches/fbb3792a-227d-42ff-a1a0-8766a3f60d29.png"
+Prediction { affirmative_confidence: 0.041779514, negative_confidence: 0.9582205 }
+[bus] "./test_data/4x4/bus/not matches/63bf64f3-32b9-4b31-aa4c-24371a8b0134.png"
+Prediction { affirmative_confidence: 0.076557085, negative_confidence: 0.9234429 }
+[bus] "./test_data/4x4/bus/not matches/813b6a54-28bd-4be9-ba31-70b01b0b90a6.png"
+Prediction { affirmative_confidence: 0.17562792, negative_confidence: 0.8243721 }
+[bus] "./test_data/4x4/bus/not matches/bc6e2f03-14ef-422b-97e5-7a63de15b2fb.png"
+Prediction { affirmative_confidence: 0.12046421, negative_confidence: 0.8795358 }
+[bus] "./test_data/4x4/bus/not matches/bb29fe96-3a67-4629-9114-b8a06534921a.png"
+Prediction { affirmative_confidence: 0.30505717, negative_confidence: 0.69494283 }
+[bus] "./test_data/4x4/bus/not matches/6965777c-104a-4b86-96f1-c50397dd3278.png"
+Prediction { affirmative_confidence: 0.29661015, negative_confidence: 0.7033899 }
+[bus] "./test_data/4x4/bus/not matches/1960ff92-bc90-4c78-932e-87d3a47b5083.png"
+Prediction { affirmative_confidence: 0.14096348, negative_confidence: 0.85903645 }
+[bus] "./test_data/4x4/bus/not matches/37fd5112-78fe-45ff-a793-9872c8f1e677.png"
+Prediction { affirmative_confidence: 0.26814365, negative_confidence: 0.73185635 }
+[bus] "./test_data/4x4/bus/not matches/7df495ee-e862-4963-8891-b1eab4263636.png"
+Prediction { affirmative_confidence: 0.5250805, negative_confidence: 0.47491956 }
+[bus] "./test_data/4x4/bus/not matches/d1b9c3cc-0ff2-41a8-82ab-b8fd777bbad2.png"
+Prediction { affirmative_confidence: 0.1204642, negative_confidence: 0.8795358 }
+[bus] "./test_data/4x4/bus/not matches/d0b2b35a-e384-4d1e-86e0-397dbdeedd71.png"
+Prediction { affirmative_confidence: 0.12478481, negative_confidence: 0.87521523 }
+[bus] "./test_data/4x4/bus/not matches/81b2aba8-5044-4a51-adc4-a7a089514a3a.png"
+Prediction { affirmative_confidence: 0.4949799, negative_confidence: 0.5050201 }
+[bus] "./test_data/4x4/bus/not matches/1e0372e9-ebe8-412f-8cee-defd5283d6ae.png"
+Prediction { affirmative_confidence: 0.27210277, negative_confidence: 0.7278972 }
+[bus] "./test_data/4x4/bus/not matches/604bcdec-b8ff-444c-aefe-69c2e3a737d1.png"
+Prediction { affirmative_confidence: 0.19375905, negative_confidence: 0.8062409 }
+[bus] "./test_data/4x4/bus/not matches/98703573-4693-4537-948d-d4731a96668f.png"
+Prediction { affirmative_confidence: 0.09542736, negative_confidence: 0.90457267 }
+[bus] "./test_data/4x4/bus/not matches/d74df627-9a81-4793-be7b-68e691eb529e.png"
+Prediction { affirmative_confidence: 0.46991456, negative_confidence: 0.5300855 }
+[bus] "./test_data/4x4/bus/not matches/a303acfb-0373-47d7-8edf-e1affcb7d461.png"
+Prediction { affirmative_confidence: 0.19375904, negative_confidence: 0.8062409 }
+[bus] "./test_data/4x4/bus/not matches/94462b7c-5ff7-4ba8-9b82-43bfc1770eda.png"
+Prediction { affirmative_confidence: 0.07798888, negative_confidence: 0.9220111 }
+[bus] "./test_data/4x4/bus/not matches/8fc735fd-c21e-4bf8-af7d-25dc8bb792ed.png"
+Prediction { affirmative_confidence: 0.11022474, negative_confidence: 0.8897753 }
+[bus] "./test_data/4x4/bus/not matches/1cb1560d-ab89-4c3c-a6c9-27207a751170.png"
+Prediction { affirmative_confidence: 0.058899917, negative_confidence: 0.9411 }
+[bus] "./test_data/4x4/bus/not matches/d78b5ed7-2ef4-436e-8b9d-f9e119fbbcf7.png"
+Prediction { affirmative_confidence: 0.2841972, negative_confidence: 0.7158028 }
+[bus] "./test_data/4x4/bus/not matches/bb91e20d-8397-45cd-ac4d-f17d0cad8cd3.png"
+Prediction { affirmative_confidence: 0.0971749, negative_confidence: 0.90282506 }
+[bus] "./test_data/4x4/bus/not matches/55bb3372-07e5-4fe8-8339-4830e8082875.png"
+Prediction { affirmative_confidence: 0.07944517, negative_confidence: 0.9205548 }
+[bus] "./test_data/4x4/bus/not matches/b610a742-e127-4415-b7f6-0e62f9d8b9c8.png"
+Prediction { affirmative_confidence: 0.13854927, negative_confidence: 0.86145073 }
+[bus] "./test_data/4x4/bus/not matches/4c0df185-a5ba-4068-ad51-b711ec2a3d95.png"
+Prediction { affirmative_confidence: 0.2200942, negative_confidence: 0.7799058 }
+[bus] "./test_data/4x4/bus/not matches/e768961e-5041-48fc-9b86-28582a2f87b6.png"
+Prediction { affirmative_confidence: 0.14841752, negative_confidence: 0.8515825 }
+[bus] "./test_data/4x4/bus/not matches/cdea15e9-be33-4f87-a73b-723d12cc0162.png"
+Prediction { affirmative_confidence: 0.18151867, negative_confidence: 0.8184813 }
+[bus] "./test_data/4x4/bus/not matches/38baa7c4-3920-4d57-a1e0-eb3958cad7fb.png"
+Prediction { affirmative_confidence: 0.12923759, negative_confidence: 0.8707624 }
+[bus] "./test_data/4x4/bus/not matches/4353c504-0872-4666-bfce-baef7bc9970c.png"
+Prediction { affirmative_confidence: 0.07944515, negative_confidence: 0.9205549 }
+[bus] "./test_data/4x4/bus/not matches/ee9a0e84-bc3f-41a3-ab4b-b7161d149b80.png"
+Prediction { affirmative_confidence: 0.43017504, negative_confidence: 0.56982493 }
+[bus] "./test_data/4x4/bus/not matches/f1d1284d-1bfc-4ec4-885a-4626742f52dc.png"
+Prediction { affirmative_confidence: 0.10075591, negative_confidence: 0.8992441 }
+[bus] "./test_data/4x4/bus/not matches/5fb92694-a5cb-4436-b031-4a9d984e704d.png"
+Prediction { affirmative_confidence: 0.6086847, negative_confidence: 0.39131522 }
+[bus] "./test_data/4x4/bus/not matches/e5205368-3bea-431a-be05-dd45d2b471d2.png"
+Prediction { affirmative_confidence: 0.06719229, negative_confidence: 0.9328077 }
+[bus] "./test_data/4x4/bus/not matches/a5cb4469-c488-436f-94ca-15a9deebe22e.png"
+Prediction { affirmative_confidence: 0.31797644, negative_confidence: 0.6820235 }
+[bus] "./test_data/4x4/bus/not matches/b5fcbc79-3878-4659-9bb9-ab4be059879a.png"
+Prediction { affirmative_confidence: 0.20334403, negative_confidence: 0.79665595 }
+[bus] "./test_data/4x4/bus/not matches/ddbb4ac0-2505-4f48-80b3-4f13dd4b619c.png"
+Prediction { affirmative_confidence: 0.072405264, negative_confidence: 0.9275947 }
+[bus] "./test_data/4x4/bus/not matches/71aa1222-eb0f-4b3e-9811-1d21947a39e3.png"
+Prediction { affirmative_confidence: 0.14341277, negative_confidence: 0.8565873 }
+[bus] "./test_data/4x4/bus/not matches/e7be890b-a8a7-437e-beb6-612a26121d3c.png"
+Prediction { affirmative_confidence: 0.14841755, negative_confidence: 0.8515824 }
+[bus] "./test_data/4x4/bus/not matches/4faa4955-e52d-4809-8131-2c97434fa750.png"
+Prediction { affirmative_confidence: 0.11022471, negative_confidence: 0.8897753 }
+[bus] "./test_data/4x4/bus/not matches/d44f3dab-f88d-494b-a76a-8cd7c766c717.png"
+Prediction { affirmative_confidence: 0.12260813, negative_confidence: 0.8773919 }
+[bus] "./test_data/4x4/bus/not matches/b3941d59-99e9-4062-be00-5821e056cd51.png"
+Prediction { affirmative_confidence: 0.13616988, negative_confidence: 0.86383015 }
+[bus] "./test_data/4x4/bus/not matches/43e46573-b61a-4d46-80c6-489de667dc64.png"
+Prediction { affirmative_confidence: 0.8684857, negative_confidence: 0.13151433 }
+[bus] "./test_data/4x4/bus/not matches/0f3c0ddc-ca3a-4323-93ac-333ad27144f6.png"
+Prediction { affirmative_confidence: 0.092016354, negative_confidence: 0.9079837 }
+[bus] "./test_data/4x4/bus/not matches/aeeb76e2-c60c-48f5-8d67-91aae5740f28.png"
+Prediction { affirmative_confidence: 0.14841755, negative_confidence: 0.8515824 }
+[bus] "./test_data/4x4/bus/not matches/a81a324a-0156-4be3-9bad-d5b13b1c670c.png"
+Prediction { affirmative_confidence: 0.0737656, negative_confidence: 0.9262344 }
+[bus] "./test_data/4x4/bus/not matches/bf9a8bf2-6bbf-4fa7-acbb-1d65f14a38ca.png"
+Prediction { affirmative_confidence: 0.35839075, negative_confidence: 0.6416092 }
+[bus] "./test_data/4x4/bus/not matches/0ebb2c88-64f1-4953-8c9f-cac37a6917dd.png"
+Prediction { affirmative_confidence: 0.27210274, negative_confidence: 0.7278972 }
+[bus] "./test_data/4x4/bus/not matches/e4019a86-fa77-4494-801b-088ca5bf83b1.png"
+Prediction { affirmative_confidence: 0.06351338, negative_confidence: 0.9364866 }
+[bus] "./test_data/4x4/bus/not matches/0037625e-8975-44c4-b160-c691c9ea07e0.png"
+Prediction { affirmative_confidence: 0.38179186, negative_confidence: 0.6182081 }
+[bus] "./test_data/4x4/bus/not matches/07625d45-3d6a-4d2f-83ab-e416f6387452.png"
+Prediction { affirmative_confidence: 0.062329397, negative_confidence: 0.93767065 }
+[bus] "./test_data/4x4/bus/not matches/34fcdac2-d064-4ffd-8c64-80ee53b22d19.png"
+Prediction { affirmative_confidence: 0.1875621, negative_confidence: 0.8124379 }
+[bus] "./test_data/4x4/bus/not matches/a4194dd9-9c22-4b7a-876f-bbb7c4cb1516.png"
+Prediction { affirmative_confidence: 0.30081677, negative_confidence: 0.6991832 }
+[bus] "./test_data/4x4/bus/not matches/18a0336b-6795-49f3-a18b-3ea92aa3cee9.png"
+Prediction { affirmative_confidence: 0.28419715, negative_confidence: 0.71580285 }
+[bus] "./test_data/4x4/bus/not matches/eb879b66-e418-4b2b-9161-639b95c937f6.png"
+Prediction { affirmative_confidence: 0.1785543, negative_confidence: 0.82144576 }
+[bus] "./test_data/4x4/bus/not matches/b08aae00-77ae-42db-93b7-cd8169b48b31.png"
+Prediction { affirmative_confidence: 0.124784805, negative_confidence: 0.8752151 }
+[bus] "./test_data/4x4/bus/not matches/811cd1ef-9f05-4d3e-9ed9-bfa4a980879c.png"
+Prediction { affirmative_confidence: 0.09542736, negative_confidence: 0.90457267 }
+[bus] "./test_data/4x4/bus/not matches/31383778-5ea4-4f21-9f2f-613053920108.png"
+Prediction { affirmative_confidence: 0.14096346, negative_confidence: 0.85903645 }
+[bus] "./test_data/4x4/bus/not matches/40730115-c871-4cdc-9d42-17fc130dd8da.png"
+Prediction { affirmative_confidence: 0.18452121, negative_confidence: 0.8154788 }
+[bus] "./test_data/4x4/bus/not matches/81982acf-b461-4263-9082-b6ea20b6759e.png"
+Prediction { affirmative_confidence: 0.2378123, negative_confidence: 0.7621878 }
+[bus] "./test_data/4x4/bus/not matches/325547af-ee6a-4eec-a51f-0694f3ad2738.png"
+Prediction { affirmative_confidence: 0.20661652, negative_confidence: 0.7933835 }
+[bus] "./test_data/4x4/bus/not matches/e1da0d3b-c5cc-42a8-8f4b-2a62ec10eb06.png"
+Prediction { affirmative_confidence: 0.07655707, negative_confidence: 0.9234429 }
+[bus] "./test_data/4x4/bus/not matches/6f6faf5a-8d45-4d03-b303-af0e03ef3106.png"
+Prediction { affirmative_confidence: 0.07944515, negative_confidence: 0.9205549 }
+[bus] "./test_data/4x4/bus/not matches/8d59ff20-90ef-4dbf-8246-d5523e333e9c.png"
+Prediction { affirmative_confidence: 0.106347, negative_confidence: 0.893653 }
+[bus] "./test_data/4x4/bus/not matches/fefcf0da-522e-4ec8-9050-2db6d1f9eeed.png"
+Prediction { affirmative_confidence: 0.14341275, negative_confidence: 0.8565872 }
+[bus] "./test_data/4x4/bus/not matches/948a68aa-2134-44f0-862f-09d4b0e6a612.png"
+Prediction { affirmative_confidence: 0.12260813, negative_confidence: 0.8773918 }
+[bus] "./test_data/4x4/bus/not matches/6b0f27d3-b545-443f-a70f-9d47bc72e891.png"
+Prediction { affirmative_confidence: 0.20992774, negative_confidence: 0.79007226 }
+[bus] "./test_data/4x4/bus/not matches/27511f7f-4bbd-41d9-b1b5-72886fa302f0.png"
+Prediction { affirmative_confidence: 0.4549398, negative_confidence: 0.54506016 }
+[bus] "./test_data/4x4/bus/not matches/09bc1650-f175-469b-b9b3-76da34dc88a6.png"
+Prediction { affirmative_confidence: 0.8184813, negative_confidence: 0.18151867 }
+[bus] "./test_data/4x4/bus/not matches/78810b13-4f49-40c6-b618-4422d2b1f8c9.png"
+Prediction { affirmative_confidence: 0.05671273, negative_confidence: 0.9432872 }
+[bus] "./test_data/4x4/bus/not matches/bdb94384-f5e6-4737-b187-d0d6a5dd7838.png"
+Prediction { affirmative_confidence: 0.09035228, negative_confidence: 0.90964776 }
+[bus] 93.8% 91 Correct, 6.2% 6 Incorrect (97 total)
+Beginning test on motorcycles/motorcycles...
+[motorcycles] "./test_data/4x4/motorcycles/matches/02639b7d-4a64-48ab-91da-719195896c06.png"
+Prediction { affirmative_confidence: 0.81853944, negative_confidence: 0.18146054 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/907a6cf5-7f0e-4ae6-8ab2-628d266fe04d.png"
+Prediction { affirmative_confidence: 0.34493595, negative_confidence: 0.655064 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/0ffd7e48-9fce-4718-b202-48da2f99d0e3.png"
+Prediction { affirmative_confidence: 0.91917986, negative_confidence: 0.080820166 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/a55bf5c4-4194-4973-8931-b6e95edda3cf.png"
+Prediction { affirmative_confidence: 0.7854416, negative_confidence: 0.21455842 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/edf2ac7c-0673-4488-b6e8-8dd521038001.png"
+Prediction { affirmative_confidence: 0.32174066, negative_confidence: 0.6782594 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/edbd8802-62b2-4b4f-a289-89d7faefb8a7.png"
+Prediction { affirmative_confidence: 0.46649003, negative_confidence: 0.53350997 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/b0de85b9-778c-4cce-b254-e42662645e2d.png"
+Prediction { affirmative_confidence: 0.6749958, negative_confidence: 0.3250042 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/5cdd5734-bc86-4f19-a137-dd2961116739.png"
+Prediction { affirmative_confidence: 0.9122771, negative_confidence: 0.08772283 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/7bcca52e-b822-4b80-8301-7384c03d2624.png"
+Prediction { affirmative_confidence: 0.9460282, negative_confidence: 0.05397183 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/fd7b1f00-4c38-4295-85aa-0ba956235cc6.png"
+Prediction { affirmative_confidence: 0.2247841, negative_confidence: 0.77521586 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/5aa08dd5-62ee-43c8-925c-055fda236057.png"
+Prediction { affirmative_confidence: 0.93339664, negative_confidence: 0.06660337 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/e360c516-4c7c-4475-9988-7553edff42d1.png"
+Prediction { affirmative_confidence: 0.9086295, negative_confidence: 0.091370545 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/fade1a9e-7d97-41b8-93ae-6c006f10901c.png"
+Prediction { affirmative_confidence: 0.9511176, negative_confidence: 0.048882425 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/d53b2344-8ee4-43fe-8630-4ffffcf86b16.png"
+Prediction { affirmative_confidence: 0.56672025, negative_confidence: 0.4332797 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/a9fbe08c-ee01-4351-abcc-bf398e37fc13.png"
+Prediction { affirmative_confidence: 0.39708188, negative_confidence: 0.6029181 }
+[motorcycles] "./test_data/4x4/motorcycles/matches/996e8126-ceee-4039-ba4f-d370621abde1.png"
+Prediction { affirmative_confidence: 0.10879486, negative_confidence: 0.89120513 }
+[motorcycles] 62.5% 10 Correct, 37.5% 6 Incorrect (16 total)
+[motorcycles] "./test_data/4x4/motorcycles/not matches/5411e370-f2b6-414d-bdcf-c1e65a5b1549.png"
+Prediction { affirmative_confidence: 0.5593812, negative_confidence: 0.44061887 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/a11c16eb-8509-4f85-b245-21a0f1ec1b7b.png"
+Prediction { affirmative_confidence: 0.41144955, negative_confidence: 0.58855045 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/a6597330-22a7-4ea5-a8d1-391943ec2738.png"
+Prediction { affirmative_confidence: 0.32174066, negative_confidence: 0.6782594 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/20826843-8624-44a0-9c87-e2090dfb2eaa.png"
+Prediction { affirmative_confidence: 0.56672025, negative_confidence: 0.4332797 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/b0077d15-285c-4ed4-84f3-46bc97b4106c.png"
+Prediction { affirmative_confidence: 0.18820192, negative_confidence: 0.81179816 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/a78fb4b6-e524-40fe-97f9-ee022e9863f1.png"
+Prediction { affirmative_confidence: 0.5149113, negative_confidence: 0.4850887 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/209b3ead-35b5-47a7-a510-e70e270adf9e.png"
+Prediction { affirmative_confidence: 0.5074573, negative_confidence: 0.4925427 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/1ba14205-e447-4b7e-8f34-669e52f4b12f.png"
+Prediction { affirmative_confidence: 0.470204, negative_confidence: 0.529796 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/a1c6da7a-f6c2-47b8-a598-6e9765d47228.png"
+Prediction { affirmative_confidence: 0.36889404, negative_confidence: 0.631106 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/e3807839-e04a-4933-bb9d-7dd98fb2f4d3.png"
+Prediction { affirmative_confidence: 0.20225778, negative_confidence: 0.7977422 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/38c4327c-07a9-4526-becc-396ffa22a6dd.png"
+Prediction { affirmative_confidence: 0.941272, negative_confidence: 0.05872797 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/1b73172c-ccdd-46b9-ba38-5bab88ec1310.png"
+Prediction { affirmative_confidence: 0.5849338, negative_confidence: 0.41506627 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/77f3d9d3-a3e5-46ca-9953-352244a8b654.png"
+Prediction { affirmative_confidence: 0.47392127, negative_confidence: 0.52607876 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/d07f8a6c-a6f7-40ed-843d-59394922d52b.png"
+Prediction { affirmative_confidence: 0.4627798, negative_confidence: 0.53722024 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/2e6b196c-c7cd-41b3-8e62-0f0e71168598.png"
+Prediction { affirmative_confidence: 0.14492589, negative_confidence: 0.8550741 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/064c37bc-5c96-490b-8770-85162ceca1e5.png"
+Prediction { affirmative_confidence: 0.45537204, negative_confidence: 0.54462796 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/a6ba21d4-e78e-4536-b299-6d3022c6f3fc.png"
+Prediction { affirmative_confidence: 0.37586588, negative_confidence: 0.62413406 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/741c740c-a18d-46b1-9e4b-fff7f08a040e.png"
+Prediction { affirmative_confidence: 0.36542833, negative_confidence: 0.6345716 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/592b4503-0040-44ee-bda3-485f2af3fe67.png"
+Prediction { affirmative_confidence: 0.091370545, negative_confidence: 0.9086295 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/6292915e-1a7b-40ad-9606-a299cee8594b.png"
+Prediction { affirmative_confidence: 0.15441473, negative_confidence: 0.84558535 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/5e67fd6f-955f-4232-95f0-a1ccf554a537.png"
+Prediction { affirmative_confidence: 0.470204, negative_confidence: 0.529796 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/50309a5b-1533-40cf-8ff8-8769d2c13875.png"
+Prediction { affirmative_confidence: 0.2749764, negative_confidence: 0.7250236 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/f0073acc-a838-4d53-a186-e56011ab6b44.png"
+Prediction { affirmative_confidence: 0.40784243, negative_confidence: 0.5921576 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/1fcca5f8-69c3-4e52-97ef-a0e8e52d4e35.png"
+Prediction { affirmative_confidence: 0.16236648, negative_confidence: 0.8376335 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/38d9670b-9865-491c-a653-bea895d052ec.png"
+Prediction { affirmative_confidence: 0.28398654, negative_confidence: 0.71601343 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/f7675fd6-77ff-4b03-b679-cc13fe8a8c1a.png"
+Prediction { affirmative_confidence: 0.10041657, negative_confidence: 0.8995834 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/291092b8-b645-402b-87ae-2ca010873567.png"
+Prediction { affirmative_confidence: 0.13418408, negative_confidence: 0.8658159 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/8472baf9-4391-4d1b-a0d9-7f186d134752.png"
+Prediction { affirmative_confidence: 0.3585389, negative_confidence: 0.64146113 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/9e884602-a3b0-4bba-850e-95f8582fe1ee.png"
+Prediction { affirmative_confidence: 0.4776414, negative_confidence: 0.5223586 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/ff42bb0d-318e-4390-86f7-15e24af0f9bd.png"
+Prediction { affirmative_confidence: 0.45537204, negative_confidence: 0.54462796 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/dcdf7701-c3ea-4d77-943c-7e4ab838474e.png"
+Prediction { affirmative_confidence: 0.38288954, negative_confidence: 0.61711055 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/135d0704-81d2-4b1c-85d3-d2ca839b18ca.png"
+Prediction { affirmative_confidence: 0.470204, negative_confidence: 0.529796 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/3ea1df6d-d88f-492b-9ed2-dbd1fd9b4df5.png"
+Prediction { affirmative_confidence: 0.12740256, negative_confidence: 0.8725974 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/55a7c58c-90d2-49bc-8f53-923c91a256b2.png"
+Prediction { affirmative_confidence: 0.14126815, negative_confidence: 0.85873187 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/8b816484-8d06-489c-b9ff-51130198c84a.png"
+Prediction { affirmative_confidence: 0.19049136, negative_confidence: 0.8095087 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/1f29f736-a99f-4108-88a6-cb149dbd033d.png"
+Prediction { affirmative_confidence: 0.57037914, negative_confidence: 0.42962092 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/b25358ff-c96b-4911-898b-6981122ef3fe.png"
+Prediction { affirmative_confidence: 0.3217407, negative_confidence: 0.6782593 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/d7b5c9bb-7c12-433c-88be-e0a1214aa069.png"
+Prediction { affirmative_confidence: 0.6380235, negative_confidence: 0.36197647 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/1f0a7a04-73ff-4338-92b4-b2c0a51d9114.png"
+Prediction { affirmative_confidence: 0.45537207, negative_confidence: 0.54462796 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/594b2200-f392-493b-aad0-6f2f06e99f39.png"
+Prediction { affirmative_confidence: 0.18146054, negative_confidence: 0.8185395 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/292f4985-8ec3-48e0-a2f4-ac4b77002e8d.png"
+Prediction { affirmative_confidence: 0.42962092, negative_confidence: 0.570379 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/3e845775-50b0-41b4-9fde-7937e77185d7.png"
+Prediction { affirmative_confidence: 0.1792556, negative_confidence: 0.82074445 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/8818a85a-8f8a-4171-97f6-ad42ee0da78b.png"
+Prediction { affirmative_confidence: 0.58855045, negative_confidence: 0.41144955 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/c05e5f1e-4cf0-4db8-9275-978a85c60093.png"
+Prediction { affirmative_confidence: 0.092616424, negative_confidence: 0.9073836 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/e31df6d3-f734-4b37-998a-a711c37ef175.png"
+Prediction { affirmative_confidence: 0.43694592, negative_confidence: 0.56305414 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/3bdad75b-4faa-4abe-9e0e-df1a330ecf31.png"
+Prediction { affirmative_confidence: 0.4925427, negative_confidence: 0.5074573 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/88ad3a47-1c88-422a-8024-55a772dd5791.png"
+Prediction { affirmative_confidence: 0.03180868, negative_confidence: 0.9681913 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/6d31521d-dbf8-4891-95bd-e4ceddffa1f1.png"
+Prediction { affirmative_confidence: 0.29627296, negative_confidence: 0.70372707 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/be99b484-5b3d-4e34-bccb-1c6dd2087c29.png"
+Prediction { affirmative_confidence: 0.54092634, negative_confidence: 0.45907366 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/bbe47961-3f58-42c0-b9ae-352562b24297.png"
+Prediction { affirmative_confidence: 0.1583501, negative_confidence: 0.84164995 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/3c17f039-1004-4a4f-bbaa-ad13a3edce18.png"
+Prediction { affirmative_confidence: 0.45907363, negative_confidence: 0.54092634 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/b9e81dce-372c-46a1-866a-4dbaabb1fda9.png"
+Prediction { affirmative_confidence: 0.07971901, negative_confidence: 0.920281 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/dcfe8f21-84ef-4825-b121-2817c84427f8.png"
+Prediction { affirmative_confidence: 0.26324275, negative_confidence: 0.7367572 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/80e8c683-133d-48f1-b9b0-085816f63fd4.png"
+Prediction { affirmative_confidence: 0.1467841, negative_confidence: 0.8532159 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/ea2f2a6b-90c3-4e39-958b-65a5d20b22ff.png"
+Prediction { affirmative_confidence: 0.249036, negative_confidence: 0.750964 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/82a9a254-24ee-40f0-8a98-ae44b481c561.png"
+Prediction { affirmative_confidence: 0.44061887, negative_confidence: 0.5593812 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/ed37d863-2e1a-470d-a833-e4c76084339a.png"
+Prediction { affirmative_confidence: 0.42596984, negative_confidence: 0.5740302 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/6b2c6f68-f0a4-4ea3-b099-6586a1663c43.png"
+Prediction { affirmative_confidence: 0.08193516, negative_confidence: 0.91806483 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/05744972-a63b-42ba-bd0a-2c2d61aff4b9.png"
+Prediction { affirmative_confidence: 0.45537204, negative_confidence: 0.54462796 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/7a34e375-1c23-4560-9a59-d1f0407dddc9.png"
+Prediction { affirmative_confidence: 0.24625696, negative_confidence: 0.753743 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/a9a5cc27-b52e-40ec-a276-0d1914d20b29.png"
+Prediction { affirmative_confidence: 0.36889404, negative_confidence: 0.631106 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/473d9dd8-4cec-4707-acd0-536684c20369.png"
+Prediction { affirmative_confidence: 0.14126815, negative_confidence: 0.85873187 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/50b23fe8-f5b9-4193-bd48-0649fc747d15.png"
+Prediction { affirmative_confidence: 0.53350997, negative_confidence: 0.46649003 }
+[motorcycles] "./test_data/4x4/motorcycles/not matches/63ec65f6-7d7f-472b-9e74-14cb4fd65a60.png"
+Prediction { affirmative_confidence: 0.21962848, negative_confidence: 0.7803715 }
+[motorcycles] 82.8% 53 Correct, 17.2% 11 Incorrect (64 total)
+Beginning test on traffic lights/traffic_lights...
+[traffic_lights] "./test_data/4x4/traffic lights/matches/927d66db-3b7d-49fc-afd4-6cd8cf2a9a85.png"
+Prediction { affirmative_confidence: 0.5355138, negative_confidence: 0.46448618 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/1787cc62-4ad6-4a90-a525-021b6c1799b4.png"
+Prediction { affirmative_confidence: 0.874867, negative_confidence: 0.12513296 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/aadf42df-d74e-4cc9-a0ec-90a2afc34080.png"
+Prediction { affirmative_confidence: 0.1797841, negative_confidence: 0.8202159 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/1b771999-1a72-4f02-9226-8391ec8defb4.png"
+Prediction { affirmative_confidence: 0.9590739, negative_confidence: 0.04092608 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/dda1724c-f1d8-47ab-a38a-b417f6ae0f05.png"
+Prediction { affirmative_confidence: 0.32927322, negative_confidence: 0.6707268 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/646ff778-d380-4148-9ae8-2d6a2a3d4ce6.png"
+Prediction { affirmative_confidence: 0.7302839, negative_confidence: 0.26971608 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/ab61d5f1-5087-4ed1-a38e-62b0fa281719.png"
+Prediction { affirmative_confidence: 0.920028, negative_confidence: 0.07997205 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/9f9ba21a-c5c7-4ee8-acce-1f4d50712b99.png"
+Prediction { affirmative_confidence: 0.5355138, negative_confidence: 0.46448618 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/28f532a8-929a-45cd-adb7-45214bb4e059.png"
+Prediction { affirmative_confidence: 0.9509432, negative_confidence: 0.04905686 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/e7276aba-af69-40c1-b3e2-4541bce06c90.png"
+Prediction { affirmative_confidence: 0.8824504, negative_confidence: 0.117549576 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/ffd5fcf2-758f-46f0-9223-ddc489bca6a3.png"
+Prediction { affirmative_confidence: 0.6759431, negative_confidence: 0.32405692 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/89d5aca3-cb35-4ba8-9d9b-fa6a6c9d246b.png"
+Prediction { affirmative_confidence: 0.9089128, negative_confidence: 0.09108717 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/b58c7981-0dfd-46b8-b7f7-96cf2419d77b.png"
+Prediction { affirmative_confidence: 0.71119606, negative_confidence: 0.28880394 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/5c426928-05e4-492c-9255-524ec7ab8b4b.png"
+Prediction { affirmative_confidence: 0.32405692, negative_confidence: 0.6759431 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/2af729b6-6b9c-4faf-838e-3319f26c2050.png"
+Prediction { affirmative_confidence: 0.4940714, negative_confidence: 0.5059287 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/b2b3eafd-005e-4356-8679-e5a539a10fda.png"
+Prediction { affirmative_confidence: 0.9674334, negative_confidence: 0.032566633 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/1e81d62e-3125-44e9-8a83-89c24b5a272b.png"
+Prediction { affirmative_confidence: 0.37800333, negative_confidence: 0.6219967 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/1f77a78a-cb96-4198-89d0-e131edfbe731.png"
+Prediction { affirmative_confidence: 0.8612984, negative_confidence: 0.13870157 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/134e11ba-7d65-4999-bd7a-150b868de0a6.png"
+Prediction { affirmative_confidence: 0.16953051, negative_confidence: 0.8304695 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/08e9643f-8c34-4d73-9658-fe8935e478b4.png"
+Prediction { affirmative_confidence: 0.1797841, negative_confidence: 0.8202159 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/d5e6e57e-9116-44de-b8aa-2c183354b2c8.png"
+Prediction { affirmative_confidence: 0.16295692, negative_confidence: 0.8370431 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/02e582d6-731c-49e3-86f0-7856e16143ed.png"
+Prediction { affirmative_confidence: 0.030398084, negative_confidence: 0.9696019 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/73dbdc99-2f26-4880-a4d0-b14c850386c5.png"
+Prediction { affirmative_confidence: 0.69636613, negative_confidence: 0.3036339 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/50b83b03-352a-482f-944e-2aefd6c08999.png"
+Prediction { affirmative_confidence: 0.5764715, negative_confidence: 0.42352843 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/d1385eb9-0bfd-48e3-8f1a-9e77c851a8f7.png"
+Prediction { affirmative_confidence: 0.99195236, negative_confidence: 0.008047559 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/529f6e08-0d93-438f-85dc-a824bc9cd3d6.png"
+Prediction { affirmative_confidence: 0.84651655, negative_confidence: 0.15348342 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/242beae3-4637-4a20-aae8-ed0dfe9c3ddd.png"
+Prediction { affirmative_confidence: 0.973527, negative_confidence: 0.026472993 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/ddd8f855-64d3-4ad0-8f75-885e33f85277.png"
+Prediction { affirmative_confidence: 0.93439025, negative_confidence: 0.06560981 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/8455157d-fb11-40d5-95ab-f967d2d5e43f.png"
+Prediction { affirmative_confidence: 0.86686826, negative_confidence: 0.13313171 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/202545bb-41c1-4eb6-81aa-9abb73f7cff1.png"
+Prediction { affirmative_confidence: 0.26047617, negative_confidence: 0.7395238 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/789b36ea-065d-48d5-9b90-36a34f4f3460.png"
+Prediction { affirmative_confidence: 0.13870162, negative_confidence: 0.8612984 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/503b6c77-954a-45c5-acf7-17117e195987.png"
+Prediction { affirmative_confidence: 0.36691764, negative_confidence: 0.6330824 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/c8242ff5-9d1a-4d8c-82da-2f21b58d8c01.png"
+Prediction { affirmative_confidence: 0.38921812, negative_confidence: 0.6107819 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/f2b9d310-3dc3-47d6-aa74-c706e4801251.png"
+Prediction { affirmative_confidence: 0.89642674, negative_confidence: 0.10357326 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/8fc970df-e02f-46b3-8305-86e10fc552ab.png"
+Prediction { affirmative_confidence: 0.94510615, negative_confidence: 0.054893885 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/def405b1-df74-4f78-ac89-1d49599e0ce2.png"
+Prediction { affirmative_confidence: 0.07997207, negative_confidence: 0.920028 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/2f7750c8-c638-40d9-9652-b4ec89522d4f.png"
+Prediction { affirmative_confidence: 0.879968, negative_confidence: 0.12003205 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/545eec7f-1a73-4962-b499-c2cd20d789ca.png"
+Prediction { affirmative_confidence: 0.334532, negative_confidence: 0.66546804 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/44a51bb9-154a-4551-9dcd-97e59d4c4f28.png"
+Prediction { affirmative_confidence: 0.6759431, negative_confidence: 0.32405692 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/bc890734-09c8-4cde-9523-9521dcac8692.png"
+Prediction { affirmative_confidence: 0.24700643, negative_confidence: 0.7529936 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/3241995d-f5dd-41c9-bfb8-e82511b15813.png"
+Prediction { affirmative_confidence: 0.2888039, negative_confidence: 0.7111961 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/45956e15-92de-40a1-95ae-49edff01f944.png"
+Prediction { affirmative_confidence: 0.7485562, negative_confidence: 0.25144383 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/0d2708c9-3e0f-42df-bc10-038041528789.png"
+Prediction { affirmative_confidence: 0.05613734, negative_confidence: 0.9438627 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/2bacce83-d34d-4ca3-96c6-4e232a332058.png"
+Prediction { affirmative_confidence: 0.955184, negative_confidence: 0.04481606 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/041a3d71-74ac-4558-b8cc-a5fd57962997.png"
+Prediction { affirmative_confidence: 0.9681723, negative_confidence: 0.03182766 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/e6fe22f8-dcc2-44ef-9880-9ed5eb8ab0cb.png"
+Prediction { affirmative_confidence: 0.9127643, negative_confidence: 0.08723571 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/2ffb4b4f-4272-40be-b936-1fdb87592f8c.png"
+Prediction { affirmative_confidence: 0.93582916, negative_confidence: 0.0641708 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/536dd909-dab9-41c7-bdfe-3915b2bc5006.png"
+Prediction { affirmative_confidence: 0.1797841, negative_confidence: 0.8202159 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/e54b5be9-be57-4fc2-862c-3b959c3bfa4a.png"
+Prediction { affirmative_confidence: 0.70135707, negative_confidence: 0.2986429 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/4d7653f2-a54d-41ed-8d83-0fb3f4d06732.png"
+Prediction { affirmative_confidence: 0.887282, negative_confidence: 0.11271798 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/bfe0193f-45f0-4721-88ba-9b045f350f2d.png"
+Prediction { affirmative_confidence: 0.47038996, negative_confidence: 0.52961004 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/c2109ddc-3b66-4524-8e5e-a4788a5fdae8.png"
+Prediction { affirmative_confidence: 0.5, negative_confidence: 0.5 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/50a1df92-4ab8-47d3-b0d8-632fbfbab2e1.png"
+Prediction { affirmative_confidence: 0.84651655, negative_confidence: 0.15348342 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/5c77ceb9-be57-46dc-b1af-8e0dfad34345.png"
+Prediction { affirmative_confidence: 0.879968, negative_confidence: 0.12003205 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/d808d12b-6cf3-449d-9268-0aeda0c0f4ba.png"
+Prediction { affirmative_confidence: 0.24262194, negative_confidence: 0.75737804 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/114b0e67-b5bf-47a0-b81e-2b77478763dd.png"
+Prediction { affirmative_confidence: 0.9626395, negative_confidence: 0.037360538 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/40435ba9-13f0-4d38-94d6-6f9035624d43.png"
+Prediction { affirmative_confidence: 0.5355138, negative_confidence: 0.46448618 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/12318c91-2b95-4092-a323-036e91bf005a.png"
+Prediction { affirmative_confidence: 0.117549576, negative_confidence: 0.8824504 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/70fc1d68-05ec-4ab5-9300-9eb01653f6f2.png"
+Prediction { affirmative_confidence: 0.22978856, negative_confidence: 0.77021146 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/4bb1b5a9-dbca-4d65-b209-ccc5c1489c94.png"
+Prediction { affirmative_confidence: 0.9709692, negative_confidence: 0.029030798 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/5066f86d-c566-4711-bdf3-1d34e2f8c0ef.png"
+Prediction { affirmative_confidence: 0.8848883, negative_confidence: 0.1151117 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/8930f9f2-4f7a-4449-ac90-57c9d70063dd.png"
+Prediction { affirmative_confidence: 0.30867162, negative_confidence: 0.69132835 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/f46f4d64-468d-4a36-a20a-d7d1f3c0f8e5.png"
+Prediction { affirmative_confidence: 0.08536574, negative_confidence: 0.9146342 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/e325ee14-4f25-4de6-a1f3-b9f69ec0861f.png"
+Prediction { affirmative_confidence: 0.48814437, negative_confidence: 0.51185566 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/8f86c794-68d6-4945-876e-75ed090108cb.png"
+Prediction { affirmative_confidence: 0.32405692, negative_confidence: 0.6759431 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/3a4020c5-36d7-462e-996d-974a028c2907.png"
+Prediction { affirmative_confidence: 0.523698, negative_confidence: 0.47630203 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/800e7e16-2911-423a-baf4-7e3367269a36.png"
+Prediction { affirmative_confidence: 0.12255969, negative_confidence: 0.8774403 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/0639e370-9ea3-475d-8977-37b31442b97f.png"
+Prediction { affirmative_confidence: 0.13589263, negative_confidence: 0.86410743 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/bd8f9bed-8586-4b34-af83-73deee5b51c0.png"
+Prediction { affirmative_confidence: 0.31888396, negative_confidence: 0.68111604 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/94b13c66-7edb-470b-9e83-9996aa3e4364.png"
+Prediction { affirmative_confidence: 0.44684115, negative_confidence: 0.5531589 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/804ed5fe-ecf9-4100-8885-e8cef2808d44.png"
+Prediction { affirmative_confidence: 0.2094764, negative_confidence: 0.7905236 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/f94b7b6c-026b-45a7-8e6e-8a4297271e48.png"
+Prediction { affirmative_confidence: 0.2094764, negative_confidence: 0.7905236 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/e5a913a2-6c54-4716-86e0-3e074d640f79.png"
+Prediction { affirmative_confidence: 0.09306976, negative_confidence: 0.90693027 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/eea777b7-0d6e-4d1a-8518-1f8b152b687f.png"
+Prediction { affirmative_confidence: 0.93997157, negative_confidence: 0.06002838 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/68a9ba48-a45b-4a76-8085-9606b183e5bb.png"
+Prediction { affirmative_confidence: 0.84651655, negative_confidence: 0.15348342 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/59f6e21a-d958-4c34-8673-43abf0253ff9.png"
+Prediction { affirmative_confidence: 0.95310915, negative_confidence: 0.046890907 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/69b38296-0034-471b-8c2e-132c3ba1c4a8.png"
+Prediction { affirmative_confidence: 0.2888039, negative_confidence: 0.7111961 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/e2a31362-1b74-4688-893d-07b2d6908cae.png"
+Prediction { affirmative_confidence: 0.26047623, negative_confidence: 0.7395238 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/045b685d-11c0-4c41-9ce1-323f37b42736.png"
+Prediction { affirmative_confidence: 0.36691764, negative_confidence: 0.6330824 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/6eecf924-9b95-4b55-95e4-fdbed67bb66a.png"
+Prediction { affirmative_confidence: 0.5177793, negative_confidence: 0.48222068 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/03333135-7c95-4e54-adf4-ce4de477adc7.png"
+Prediction { affirmative_confidence: 0.4409868, negative_confidence: 0.5590132 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/489a8bf6-88dc-4aa3-b355-0f79f89805cd.png"
+Prediction { affirmative_confidence: 0.2650704, negative_confidence: 0.73492956 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/9724da3c-c783-4ae8-9c0e-9db67f8bab97.png"
+Prediction { affirmative_confidence: 0.78656936, negative_confidence: 0.21343064 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/986e28c9-237e-4219-a591-0862440ac703.png"
+Prediction { affirmative_confidence: 0.26047623, negative_confidence: 0.7395238 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/fbf43e48-f67a-41f6-b84e-12a5b2037d3f.png"
+Prediction { affirmative_confidence: 0.523698, negative_confidence: 0.47630203 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/0c8596e6-0bd0-4c5d-81bc-0691f5597082.png"
+Prediction { affirmative_confidence: 0.9520377, negative_confidence: 0.04796226 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/6805c07b-667e-4544-9816-96b21ff367dd.png"
+Prediction { affirmative_confidence: 0.50592875, negative_confidence: 0.49407133 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/d79b283d-e075-4a7f-a4e0-4ee97d8d3754.png"
+Prediction { affirmative_confidence: 0.923449, negative_confidence: 0.07655098 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/a6d10850-fe66-49b4-9b06-f4f1ff9f755f.png"
+Prediction { affirmative_confidence: 0.63308245, negative_confidence: 0.36691764 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/aec72357-4cd1-42a8-bf44-fac8a91dca7c.png"
+Prediction { affirmative_confidence: 0.6707268, negative_confidence: 0.32927322 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/29e9e53c-0d75-43c9-8974-99eee5087d71.png"
+Prediction { affirmative_confidence: 0.33453196, negative_confidence: 0.66546804 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/66283909-1541-4499-b88a-a2ea6dcd1a58.png"
+Prediction { affirmative_confidence: 0.6601679, negative_confidence: 0.33983213 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/1f37e58f-70a6-4da7-8f4a-5275b8df5e2d.png"
+Prediction { affirmative_confidence: 0.6385737, negative_confidence: 0.36142626 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/e7ceb653-ec04-48ef-b4cc-27c58b19376c.png"
+Prediction { affirmative_confidence: 0.35597095, negative_confidence: 0.6440291 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/c301e7c7-636c-4a6a-b6c7-cae79c7365b5.png"
+Prediction { affirmative_confidence: 0.8434099, negative_confidence: 0.15659012 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/9b249ec2-291f-43df-b8c1-869a1d738697.png"
+Prediction { affirmative_confidence: 0.08536576, negative_confidence: 0.9146342 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/52c6d1fc-e552-45c4-8257-18ee2f412e1a.png"
+Prediction { affirmative_confidence: 0.84025216, negative_confidence: 0.15974784 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/05f3fae5-79ac-4d8c-aa39-031024d519b0.png"
+Prediction { affirmative_confidence: 0.7255871, negative_confidence: 0.27441284 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/9a918fc3-680e-4773-b95a-a39843b91013.png"
+Prediction { affirmative_confidence: 0.6759431, negative_confidence: 0.32405692 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/e8efb1fb-3628-47d0-92bb-6614b8ed5ce9.png"
+Prediction { affirmative_confidence: 0.9764174, negative_confidence: 0.023582634 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/e1fcac24-a37d-4201-81fa-e84f5a85bd1e.png"
+Prediction { affirmative_confidence: 0.44684115, negative_confidence: 0.5531589 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/e0880dbe-44e5-446c-9e6f-e36f5709183e.png"
+Prediction { affirmative_confidence: 0.86410743, negative_confidence: 0.13589263 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/4b0b0414-aeac-48d6-a0e5-244c69279907.png"
+Prediction { affirmative_confidence: 0.79826987, negative_confidence: 0.20173007 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/5eb0e40e-7842-4169-b412-c002554e5f7f.png"
+Prediction { affirmative_confidence: 0.038222894, negative_confidence: 0.9617771 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/4493e95e-63e3-47fa-b379-cd56927bcc0e.png"
+Prediction { affirmative_confidence: 0.79826987, negative_confidence: 0.20173007 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/460933f9-0167-42e7-9160-67a6c0ba3e30.png"
+Prediction { affirmative_confidence: 0.968895, negative_confidence: 0.031104933 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/ea58fa22-2459-452e-a9ff-c9e31e17d4ae.png"
+Prediction { affirmative_confidence: 0.86686826, negative_confidence: 0.13313177 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/c91488e6-3ec7-498c-9d3e-6856f42d6f4a.png"
+Prediction { affirmative_confidence: 0.058704108, negative_confidence: 0.9412959 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/d7d3c2e1-a932-49fe-bc82-94abcdf4c50b.png"
+Prediction { affirmative_confidence: 0.94259274, negative_confidence: 0.057407245 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/52987828-55a3-4e13-a732-30a5c5c5e4d8.png"
+Prediction { affirmative_confidence: 0.6107819, negative_confidence: 0.3892181 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/1b1b3d4f-393c-4902-9109-03c5ffbfc50e.png"
+Prediction { affirmative_confidence: 0.665468, negative_confidence: 0.334532 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/6dafc448-eda5-4f26-9e8a-84693d4d6604.png"
+Prediction { affirmative_confidence: 0.62199664, negative_confidence: 0.37800336 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/139b1358-3918-4cb3-831e-050e09752f06.png"
+Prediction { affirmative_confidence: 0.5764715, negative_confidence: 0.42352843 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/a5749d31-d5c2-46c1-bc1c-7c5771028dc1.png"
+Prediction { affirmative_confidence: 0.68624485, negative_confidence: 0.3137552 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/1ad2e634-f513-4985-8c37-c48e5f3c4df8.png"
+Prediction { affirmative_confidence: 0.5764715, negative_confidence: 0.42352843 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/821a1512-0d0f-41fb-a978-81fc0885242c.png"
+Prediction { affirmative_confidence: 0.5590132, negative_confidence: 0.4409868 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/eaf66ab0-c9dc-488e-a5a7-270029f12cc5.png"
+Prediction { affirmative_confidence: 0.6164048, negative_confidence: 0.38359526 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/7ed12989-7d07-456d-9780-4e90fd918e98.png"
+Prediction { affirmative_confidence: 0.887282, negative_confidence: 0.11271798 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/d0e09078-15e7-48cb-8b3b-8fd4c877c61b.png"
+Prediction { affirmative_confidence: 0.08536574, negative_confidence: 0.9146342 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/818f1b7e-38eb-4911-b5ec-e6a6933f910f.png"
+Prediction { affirmative_confidence: 0.054893885, negative_confidence: 0.94510615 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/8aee69bf-b5a7-4a45-8512-4328091330d5.png"
+Prediction { affirmative_confidence: 0.38359526, negative_confidence: 0.6164048 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/dbb587ff-1986-4f4a-9c02-5799e98343f1.png"
+Prediction { affirmative_confidence: 0.7905236, negative_confidence: 0.2094764 }
+[traffic_lights] "./test_data/4x4/traffic lights/matches/9f3287f5-4f88-403b-8db9-de39209cdf9b.png"
+Prediction { affirmative_confidence: 0.47630203, negative_confidence: 0.523698 }
+[traffic_lights] 58.5% 72 Correct, 41.5% 51 Incorrect (123 total)
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/de364739-0876-4a58-8eec-ab02f86b65b2.png"
+Prediction { affirmative_confidence: 0.12775238, negative_confidence: 0.87224764 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/48329b17-20c2-4b2e-b3b2-2aa93a5df993.png"
+Prediction { affirmative_confidence: 0.32405692, negative_confidence: 0.6759431 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/72552420-6c1d-4306-9021-8f260b2141f6.png"
+Prediction { affirmative_confidence: 0.26971608, negative_confidence: 0.7302839 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/8cdcc791-6199-41fe-ac01-4f1091da0629.png"
+Prediction { affirmative_confidence: 0.40055132, negative_confidence: 0.5994487 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/82e1ccff-44c9-4a34-ae09-539fc32c04b9.png"
+Prediction { affirmative_confidence: 0.27441284, negative_confidence: 0.7255871 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/4a51cf1a-f5c6-4805-b973-8928db47eb09.png"
+Prediction { affirmative_confidence: 0.17631347, negative_confidence: 0.82368654 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/9557e1c3-f607-4938-891b-29d27f0445c1.png"
+Prediction { affirmative_confidence: 0.19051558, negative_confidence: 0.8094844 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/04f79188-993d-4f10-a6e9-54d188497ae8.png"
+Prediction { affirmative_confidence: 0.13589261, negative_confidence: 0.8641073 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b916e6d5-3469-4940-955f-ae0c0d7fed31.png"
+Prediction { affirmative_confidence: 0.071670614, negative_confidence: 0.9283294 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/da6582c7-b635-4e7b-bc62-d0ebd1d485c8.png"
+Prediction { affirmative_confidence: 0.31888396, negative_confidence: 0.68111604 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/1ea0ae93-4657-4bb1-9fce-afd28db9a0d8.png"
+Prediction { affirmative_confidence: 0.07824442, negative_confidence: 0.92175555 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/7f19520f-5bd8-4169-aa21-d0b56ae6e14b.png"
+Prediction { affirmative_confidence: 0.15042737, negative_confidence: 0.84957266 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/8db1fc94-7529-4583-a496-10999af4ddff.png"
+Prediction { affirmative_confidence: 0.057407256, negative_confidence: 0.94259274 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2c4ebd08-e9b0-49b5-b5a2-890dc6796cc7.png"
+Prediction { affirmative_confidence: 0.16953051, negative_confidence: 0.8304695 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2e604d5e-dd2d-4e86-b044-e3669f4c1ec2.png"
+Prediction { affirmative_confidence: 0.062761225, negative_confidence: 0.9372388 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/1963f95c-a31a-42eb-b958-1453e44d292d.png"
+Prediction { affirmative_confidence: 0.09306976, negative_confidence: 0.90693027 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/68e98d0c-c99d-4a56-8b54-69624c65add0.png"
+Prediction { affirmative_confidence: 0.24700643, negative_confidence: 0.7529936 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/d15e008d-9853-4175-8c39-b785799751c5.png"
+Prediction { affirmative_confidence: 0.097151384, negative_confidence: 0.90284866 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/9087b790-ac41-42fe-a2d6-a72b303f297f.png"
+Prediction { affirmative_confidence: 0.15659012, negative_confidence: 0.8434099 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2b57676a-96ea-4980-86f9-11c187dedd32.png"
+Prediction { affirmative_confidence: 0.5059287, negative_confidence: 0.4940714 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/7a145fca-f2d6-4557-8eaf-1b1849487bce.png"
+Prediction { affirmative_confidence: 0.1151117, negative_confidence: 0.8848883 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/06c1b66c-96ec-479b-9dbe-59eb10a48610.png"
+Prediction { affirmative_confidence: 0.29369935, negative_confidence: 0.7063006 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/234cc2ce-0d0a-4abc-881f-722c86fdc121.png"
+Prediction { affirmative_confidence: 0.8919394, negative_confidence: 0.10806062 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/05ec8064-f225-433a-a702-9920a6821a87.png"
+Prediction { affirmative_confidence: 0.15974784, negative_confidence: 0.84025216 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/9c11bef5-4bba-47df-8075-c7c1e4d87f1d.png"
+Prediction { affirmative_confidence: 0.076551005, negative_confidence: 0.923449 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/454fa0fc-4f97-4ad6-b729-2bcbb5648896.png"
+Prediction { affirmative_confidence: 0.019587034, negative_confidence: 0.9804129 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6e7a962f-0ca7-445f-9d6f-7cd96d49136e.png"
+Prediction { affirmative_confidence: 0.25144386, negative_confidence: 0.74855614 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/259fb8a9-81b8-47fa-823d-e76f36980374.png"
+Prediction { affirmative_confidence: 0.26047623, negative_confidence: 0.7395238 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a890302e-f9c2-49e9-a462-c73bb0715013.png"
+Prediction { affirmative_confidence: 0.093069784, negative_confidence: 0.90693027 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/d9f84447-2ed0-4966-a1a8-906aa6db1d0c.png"
+Prediction { affirmative_confidence: 0.1304185, negative_confidence: 0.86958146 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/340f1a2d-a47b-424c-9b24-7eea96b6a3ef.png"
+Prediction { affirmative_confidence: 0.10139195, negative_confidence: 0.8986081 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6fb51c80-6bc0-493e-ab8c-b6c0df7b322b.png"
+Prediction { affirmative_confidence: 0.29369935, negative_confidence: 0.7063006 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a9665ed7-10eb-46ed-92cf-8c5517124045.png"
+Prediction { affirmative_confidence: 0.032566626, negative_confidence: 0.9674334 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/9b9129ae-eecd-4120-8f7e-0d4cde152c2c.png"
+Prediction { affirmative_confidence: 0.08914269, negative_confidence: 0.9108573 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/c910f16b-3d46-4668-949b-779c9d8c5edb.png"
+Prediction { affirmative_confidence: 0.053676397, negative_confidence: 0.94632363 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/160aa1fb-0be2-4c7b-b74d-a9fe37714525.png"
+Prediction { affirmative_confidence: 0.34517273, negative_confidence: 0.65482724 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b28acdb8-f173-40a7-880e-0834ccf0dc6b.png"
+Prediction { affirmative_confidence: 0.05613734, negative_confidence: 0.9438627 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b7644e3d-6ea1-4bbb-9a97-3ad84e6b7126.png"
+Prediction { affirmative_confidence: 0.15042739, negative_confidence: 0.84957266 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/91d68bf1-8295-4415-a36b-ad32d35093ca.png"
+Prediction { affirmative_confidence: 0.044816054, negative_confidence: 0.955184 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/516b4a4e-5001-43ed-8ab9-86db648ad69a.png"
+Prediction { affirmative_confidence: 0.3559709, negative_confidence: 0.64402914 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/d0b936bf-6c12-4fa9-b95c-d720160801af.png"
+Prediction { affirmative_confidence: 0.334532, negative_confidence: 0.665468 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/be001a99-319b-45f0-a66a-c5c8601c7a55.png"
+Prediction { affirmative_confidence: 0.12775241, negative_confidence: 0.8722476 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/191964b4-c232-4b93-935e-f85eb5c55f77.png"
+Prediction { affirmative_confidence: 0.334532, negative_confidence: 0.665468 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/59e29114-35fc-4afe-bbba-4d164db95ead.png"
+Prediction { affirmative_confidence: 0.31888396, negative_confidence: 0.68111604 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/4424690a-483c-429c-9f89-ecda01e51df2.png"
+Prediction { affirmative_confidence: 0.6385737, negative_confidence: 0.36142626 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a1bde0bc-fdfc-46de-a4a8-620f60067067.png"
+Prediction { affirmative_confidence: 0.3036339, negative_confidence: 0.69636613 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a4040a53-03bc-4993-a94c-acb1ec3a4a64.png"
+Prediction { affirmative_confidence: 0.36691764, negative_confidence: 0.63308245 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/107e279b-eff8-4306-a484-e56aa518127f.png"
+Prediction { affirmative_confidence: 0.11036778, negative_confidence: 0.8896322 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/570a4986-923a-4cb9-9738-eaccfc0e5940.png"
+Prediction { affirmative_confidence: 0.28395727, negative_confidence: 0.7160427 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/f1e58e06-58fd-489d-b4fa-0700f5afb49c.png"
+Prediction { affirmative_confidence: 0.07997205, negative_confidence: 0.920028 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/95d0d987-6ae4-43b6-8daf-4eda8578b4fb.png"
+Prediction { affirmative_confidence: 0.14155912, negative_confidence: 0.8584409 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b3542860-35c3-4b7c-a98a-15a0a15f9a26.png"
+Prediction { affirmative_confidence: 0.21743914, negative_confidence: 0.7825609 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/fd2a161b-b155-47ec-8109-42b913be40af.png"
+Prediction { affirmative_confidence: 0.54728985, negative_confidence: 0.4527102 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/541c87f0-a922-45d5-9790-b0f9cfbd1fc8.png"
+Prediction { affirmative_confidence: 0.14446566, negative_confidence: 0.8555343 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/99c4eaca-972f-4419-ac6b-89da0c3b2ad5.png"
+Prediction { affirmative_confidence: 0.11036778, negative_confidence: 0.8896322 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2443f1af-2edd-4d11-8bd6-1996729cff17.png"
+Prediction { affirmative_confidence: 0.15659012, negative_confidence: 0.8434099 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/9dd64124-dc2a-4ca2-b8bc-cc0eba81afb8.png"
+Prediction { affirmative_confidence: 0.10579598, negative_confidence: 0.89420396 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6c700c55-0c7e-4917-94c4-cb79c77bd09c.png"
+Prediction { affirmative_confidence: 0.095090985, negative_confidence: 0.904909 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/3992f255-5016-4747-b299-2232d951887d.png"
+Prediction { affirmative_confidence: 0.095090985, negative_confidence: 0.904909 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/0ea343f7-4163-4706-9df1-6659322db80d.png"
+Prediction { affirmative_confidence: 0.11036778, negative_confidence: 0.8896322 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/bea9154b-9e47-466c-b6a2-8ccea10c4002.png"
+Prediction { affirmative_confidence: 0.07655098, negative_confidence: 0.923449 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/723ccac7-93fc-4427-8381-4257e9e7ad60.png"
+Prediction { affirmative_confidence: 0.26971614, negative_confidence: 0.73028386 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/1db88b93-ed20-45cf-8b38-5cb76b32e07f.png"
+Prediction { affirmative_confidence: 0.3036339, negative_confidence: 0.69636613 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/70f21fd5-0be3-4b4b-8747-06e57f633eb0.png"
+Prediction { affirmative_confidence: 0.33453196, negative_confidence: 0.66546804 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/64f58abc-c5e8-43d0-9b13-70ec5fd41ce4.png"
+Prediction { affirmative_confidence: 0.3724437, negative_confidence: 0.6275563 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/fa820dea-3ad1-4a47-982f-5e3d4b94095b.png"
+Prediction { affirmative_confidence: 0.11754955, negative_confidence: 0.8824504 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/342a8eb5-5375-4841-b1f4-0d2139d341ed.png"
+Prediction { affirmative_confidence: 0.31375527, negative_confidence: 0.6862448 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a01e2e05-b669-4caa-80fe-21f383391f52.png"
+Prediction { affirmative_confidence: 0.32405692, negative_confidence: 0.6759431 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/11d4f808-919b-4c49-8623-a5926b174cf0.png"
+Prediction { affirmative_confidence: 0.34517273, negative_confidence: 0.65482724 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/e43aace2-fe4b-4ceb-a458-b195fedcf690.png"
+Prediction { affirmative_confidence: 0.12775241, negative_confidence: 0.8722476 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/02d32919-b96a-4a0a-a77e-2f443dea9617.png"
+Prediction { affirmative_confidence: 0.23401281, negative_confidence: 0.7659872 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/1cb66635-c908-47db-a49c-c0bd80ae1b7b.png"
+Prediction { affirmative_confidence: 0.1797841, negative_confidence: 0.8202159 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6aba2a76-7d01-43f8-8573-269db555ac98.png"
+Prediction { affirmative_confidence: 0.32927328, negative_confidence: 0.6707267 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b8a40b65-5f68-475e-b101-9aaff6deb377.png"
+Prediction { affirmative_confidence: 0.31375527, negative_confidence: 0.6862448 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/c04ded90-8c59-4d10-96f8-ee072dc8d120.png"
+Prediction { affirmative_confidence: 0.48814437, negative_confidence: 0.51185566 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a3bcb411-9640-4a14-bb95-bf9f8dc7650f.png"
+Prediction { affirmative_confidence: 0.27916005, negative_confidence: 0.7208399 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a7fe4ea7-3249-4915-96b5-336cc1e82697.png"
+Prediction { affirmative_confidence: 0.6707268, negative_confidence: 0.32927322 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/53eb4878-5500-48cb-b778-603923874a5d.png"
+Prediction { affirmative_confidence: 0.05248442, negative_confidence: 0.94751555 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b27332f9-a32c-42f7-933f-3da4e80d5a05.png"
+Prediction { affirmative_confidence: 0.25144383, negative_confidence: 0.7485562 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/4dc05f7b-d40a-4428-b0ad-a87f418af48b.png"
+Prediction { affirmative_confidence: 0.24262194, negative_confidence: 0.75737804 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/7375b181-291a-473c-bd6d-fe57f5d70c70.png"
+Prediction { affirmative_confidence: 0.36142626, negative_confidence: 0.6385737 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b61494ba-93b8-4a8c-92e3-7510ca27fe0e.png"
+Prediction { affirmative_confidence: 0.5, negative_confidence: 0.5 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/779ee751-2c2d-4149-86e6-2d07e9624b6a.png"
+Prediction { affirmative_confidence: 0.334532, negative_confidence: 0.66546804 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/e0b80209-1459-4f7e-a659-d39ac5cead2b.png"
+Prediction { affirmative_confidence: 0.54728985, negative_confidence: 0.4527102 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2965c8dd-f58e-4e2e-992a-b512dd1fc419.png"
+Prediction { affirmative_confidence: 0.12775238, negative_confidence: 0.87224764 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/f600b179-033b-45be-a436-dff2b741bd9c.png"
+Prediction { affirmative_confidence: 0.31375527, negative_confidence: 0.6862448 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6550a836-ced3-4283-b9be-a581593c86c4.png"
+Prediction { affirmative_confidence: 0.13870162, negative_confidence: 0.8612984 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b3cc772f-cc22-43c9-bfe0-3b9fa44a26f3.png"
+Prediction { affirmative_confidence: 0.07655098, negative_confidence: 0.923449 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6e3bdc7d-df90-4c73-a5a7-78aa8bbade97.png"
+Prediction { affirmative_confidence: 0.08723574, negative_confidence: 0.9127642 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/d46b2f9e-0de7-4fd8-bbd4-59ca0c07325d.png"
+Prediction { affirmative_confidence: 0.31375527, negative_confidence: 0.6862448 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/9c2b8eab-a9b0-4c4a-9b62-5f6b78ad35ce.png"
+Prediction { affirmative_confidence: 0.5531589, negative_confidence: 0.44684115 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a9773ec4-aba3-40f7-9878-feffe21d7e75.png"
+Prediction { affirmative_confidence: 0.22150159, negative_confidence: 0.7784985 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/9905ee7a-58c7-4d58-b57f-919ffb056a31.png"
+Prediction { affirmative_confidence: 0.14446564, negative_confidence: 0.8555344 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/25655686-47f3-4edb-8d08-11ab78db215b.png"
+Prediction { affirmative_confidence: 0.17978415, negative_confidence: 0.8202158 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2e45233d-6c3c-41a4-8ef2-80aab56bacb9.png"
+Prediction { affirmative_confidence: 0.429329, negative_confidence: 0.570671 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b4026b79-4af7-410d-9e52-d32f8df84cf6.png"
+Prediction { affirmative_confidence: 0.18688497, negative_confidence: 0.81311506 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/86377340-bad0-4c48-b57c-6cdc1241fa1a.png"
+Prediction { affirmative_confidence: 0.12775238, negative_confidence: 0.87224764 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a5bc5bf4-0ebb-4f75-826e-08fa133addba.png"
+Prediction { affirmative_confidence: 0.20173012, negative_confidence: 0.79826987 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b6836dde-a38d-4656-a544-c4663a39d56c.png"
+Prediction { affirmative_confidence: 0.42932898, negative_confidence: 0.5706711 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/c9053dde-75c6-423d-bdb9-a82c61d1e3de.png"
+Prediction { affirmative_confidence: 0.112717964, negative_confidence: 0.8872821 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b5342dec-68b3-42ae-8f77-232b29f2a12e.png"
+Prediction { affirmative_confidence: 0.36691764, negative_confidence: 0.63308245 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/8748e7d1-bfce-46e1-8a90-b8a05ab7c05f.png"
+Prediction { affirmative_confidence: 0.35055274, negative_confidence: 0.64944726 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/d3de0ecf-8cea-4854-90bc-7a7b56af9db8.png"
+Prediction { affirmative_confidence: 0.08353217, negative_confidence: 0.91646785 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/82678d5f-9e78-47b1-aae4-5ef6295292d9.png"
+Prediction { affirmative_confidence: 0.6913284, negative_confidence: 0.3086716 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/cbca1250-ab7a-4b4a-b877-7c88d1ad88b0.png"
+Prediction { affirmative_confidence: 0.36691764, negative_confidence: 0.63308245 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2ce7dd55-41df-45a3-9a65-193157fe739a.png"
+Prediction { affirmative_confidence: 0.1797841, negative_confidence: 0.8202159 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a5471ba0-c9eb-47a1-9438-3c14c3118457.png"
+Prediction { affirmative_confidence: 0.13041852, negative_confidence: 0.86958146 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/45b43155-8a4e-4127-9653-4e146e5f1ea7.png"
+Prediction { affirmative_confidence: 0.11511173, negative_confidence: 0.8848883 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/da3ef16d-3f99-47e7-9fe6-62a8827e11b2.png"
+Prediction { affirmative_confidence: 0.10579598, negative_confidence: 0.89420396 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/cabac356-eb27-4059-97ca-19d138439157.png"
+Prediction { affirmative_confidence: 0.2650704, negative_confidence: 0.73492956 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6e51e8c3-6c38-4c1d-b80b-3ab429941804.png"
+Prediction { affirmative_confidence: 0.09509096, negative_confidence: 0.904909 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/c4e02ee3-6a34-49a4-b1b2-47ba296f7d4c.png"
+Prediction { affirmative_confidence: 0.11511173, negative_confidence: 0.8848883 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a53128cd-5b0c-40c3-a7af-9947b6acd3e5.png"
+Prediction { affirmative_confidence: 0.036516912, negative_confidence: 0.9634831 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/8e34e230-38d4-4721-89ef-f56008a9e025.png"
+Prediction { affirmative_confidence: 0.101391986, negative_confidence: 0.89860797 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/5fd6d698-6572-4894-b33f-b354e14214be.png"
+Prediction { affirmative_confidence: 0.29369932, negative_confidence: 0.7063007 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/3b9e5587-66b3-4ab7-a525-509bfad0483a.png"
+Prediction { affirmative_confidence: 0.31888396, negative_confidence: 0.68111604 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/72069d84-a1f0-41f3-9053-68652bf6f410.png"
+Prediction { affirmative_confidence: 0.10357326, negative_confidence: 0.89642674 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/c47c15f8-2eb8-4a91-b7f7-e71249bceae6.png"
+Prediction { affirmative_confidence: 0.28395727, negative_confidence: 0.7160427 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/50ed2050-98cd-4918-a05b-f970e12d873e.png"
+Prediction { affirmative_confidence: 0.37800336, negative_confidence: 0.62199664 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/770753c3-99d0-4e51-a793-182d208d36a8.png"
+Prediction { affirmative_confidence: 0.3892181, negative_confidence: 0.6107819 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/12c5f43e-98a9-4d68-8759-ec188ca9838e.png"
+Prediction { affirmative_confidence: 0.31375527, negative_confidence: 0.6862448 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/ced0fe45-ebba-4afa-8f03-e72584b0e6c4.png"
+Prediction { affirmative_confidence: 0.47038996, negative_confidence: 0.52961004 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/fa495210-f721-4283-8a44-483ab54e5bff.png"
+Prediction { affirmative_confidence: 0.36142626, negative_confidence: 0.6385737 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/53c70260-8a13-46e4-8d81-73abb25c5ef6.png"
+Prediction { affirmative_confidence: 0.334532, negative_confidence: 0.665468 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/7c380ad7-bd33-4d43-9fce-b88ab97f6ad8.png"
+Prediction { affirmative_confidence: 0.12513296, negative_confidence: 0.874867 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/8ace49e6-3067-40cc-aa9e-b6333a62eb16.png"
+Prediction { affirmative_confidence: 0.22561806, negative_confidence: 0.7743819 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/0a31265d-e7f7-458a-bf87-4f622e5aede7.png"
+Prediction { affirmative_confidence: 0.14155914, negative_confidence: 0.8584408 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a198336c-c3c5-4734-a830-8820e4cdafd0.png"
+Prediction { affirmative_confidence: 0.37800336, negative_confidence: 0.62199664 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/469675f1-e88d-4198-ad82-d40880d2df9c.png"
+Prediction { affirmative_confidence: 0.087235734, negative_confidence: 0.9127643 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/57b324c4-b6d0-4252-b25c-52681ada9cde.png"
+Prediction { affirmative_confidence: 0.07010865, negative_confidence: 0.9298913 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/1120802f-e6f1-4d7a-b278-3226823d4ed7.png"
+Prediction { affirmative_confidence: 0.07489125, negative_confidence: 0.9251088 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/4c4cee15-d9ce-40c8-a2ff-991f209f7d01.png"
+Prediction { affirmative_confidence: 0.38921815, negative_confidence: 0.61078185 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/73dde91a-8a2a-4952-8216-ecb248a0f029.png"
+Prediction { affirmative_confidence: 0.18330787, negative_confidence: 0.8166921 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b3b2e64d-e57e-41d0-8ac7-a7df52d83365.png"
+Prediction { affirmative_confidence: 0.2888039, negative_confidence: 0.7111961 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/f4906804-a576-400b-bba6-79992a827db5.png"
+Prediction { affirmative_confidence: 0.08914271, negative_confidence: 0.9108573 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/59cbd864-5265-4c2d-bb60-33a66f4703f8.png"
+Prediction { affirmative_confidence: 0.09306976, negative_confidence: 0.90693027 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/3517099e-e9d8-4eeb-a929-fb8a1275f6af.png"
+Prediction { affirmative_confidence: 0.52961004, negative_confidence: 0.47038996 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/3882d643-1aea-4f8d-a302-75447ce44031.png"
+Prediction { affirmative_confidence: 0.057407256, negative_confidence: 0.94259274 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/855d7fc8-bcc3-4ae7-a78c-2a60970ed23b.png"
+Prediction { affirmative_confidence: 0.2650704, negative_confidence: 0.73492956 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/f3ca991b-9883-4c38-90c7-ed787574ff50.png"
+Prediction { affirmative_confidence: 0.14446564, negative_confidence: 0.8555344 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/c0b13213-f250-4765-8c43-eb1c47943741.png"
+Prediction { affirmative_confidence: 0.69132835, negative_confidence: 0.30867162 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a6ed97cf-19b3-487f-8e63-a6fa332520ae.png"
+Prediction { affirmative_confidence: 0.12775241, negative_confidence: 0.87224764 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/4fcc2a24-b977-41ec-ae69-ec1d5e8a7a96.png"
+Prediction { affirmative_confidence: 0.32927322, negative_confidence: 0.6707268 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/35ae0763-8a85-4abe-ae79-8e2ec218f408.png"
+Prediction { affirmative_confidence: 0.29369935, negative_confidence: 0.7063006 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/faad1f0d-211d-417a-9e56-c124283818b4.png"
+Prediction { affirmative_confidence: 0.3451728, negative_confidence: 0.65482724 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/1e05ae7b-d319-4285-961e-188d2f962151.png"
+Prediction { affirmative_confidence: 0.14155912, negative_confidence: 0.8584409 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/bb058598-330d-4de3-abd5-68fee4af6390.png"
+Prediction { affirmative_confidence: 0.15659012, negative_confidence: 0.8434099 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6bc2a083-6829-4759-82ea-951da22023d3.png"
+Prediction { affirmative_confidence: 0.037360556, negative_confidence: 0.9626395 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/acfb7212-7fbd-4bc5-bbb2-a6535505b38c.png"
+Prediction { affirmative_confidence: 0.12255966, negative_confidence: 0.87744033 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/86bb3a6b-93b9-4f01-94cc-47d5855b9ed3.png"
+Prediction { affirmative_confidence: 0.52369803, negative_confidence: 0.476302 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/37997b19-d01c-4255-b577-8cb802ff8586.png"
+Prediction { affirmative_confidence: 0.54728985, negative_confidence: 0.4527102 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/13c41265-594f-45a3-b6dd-ec7c46cb920f.png"
+Prediction { affirmative_confidence: 0.59374106, negative_confidence: 0.40625888 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/1c0d21b7-1e88-4e17-addf-b6de803263bd.png"
+Prediction { affirmative_confidence: 0.3724437, negative_confidence: 0.6275563 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/8f170228-ae27-43b2-859c-07ae7c7441de.png"
+Prediction { affirmative_confidence: 0.36691764, negative_confidence: 0.63308245 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/0f7ef19d-8a14-481c-914a-62224733e8f7.png"
+Prediction { affirmative_confidence: 0.5, negative_confidence: 0.5 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/8b964987-aeb2-41d2-a9a9-3b6774e7e6b9.png"
+Prediction { affirmative_confidence: 0.08914271, negative_confidence: 0.9108573 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/89cd0681-dab8-4c71-91e6-98b6d0369bbb.png"
+Prediction { affirmative_confidence: 0.37800336, negative_confidence: 0.62199664 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/898b7543-0bd7-48b4-af91-3ea5223e6290.png"
+Prediction { affirmative_confidence: 0.07655098, negative_confidence: 0.923449 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/93fd472e-533f-4e89-994a-d0143548a996.png"
+Prediction { affirmative_confidence: 0.36691764, negative_confidence: 0.63308245 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/166fd428-afe2-4525-8610-6c989b984705.png"
+Prediction { affirmative_confidence: 0.051317483, negative_confidence: 0.94868255 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/de2f6a85-526d-4b25-bf94-de7dca5d10c4.png"
+Prediction { affirmative_confidence: 0.33983216, negative_confidence: 0.6601678 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/3cdbbf7a-53cc-436c-952b-528098b1300a.png"
+Prediction { affirmative_confidence: 0.101391986, negative_confidence: 0.89860797 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/c880e1ac-3bab-4166-b244-bace9000934a.png"
+Prediction { affirmative_confidence: 0.14742158, negative_confidence: 0.85257846 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/f6e02235-fd93-4f89-bb20-1396d66a83d0.png"
+Prediction { affirmative_confidence: 0.16953054, negative_confidence: 0.8304695 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/659f476d-7858-4efc-8ae1-cc97b22f7acc.png"
+Prediction { affirmative_confidence: 0.5706711, negative_confidence: 0.42932898 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6765ab4b-1b37-4719-ad84-598d331bbc04.png"
+Prediction { affirmative_confidence: 0.33983216, negative_confidence: 0.6601678 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/dbefc843-c477-4f09-b368-94380f49ed51.png"
+Prediction { affirmative_confidence: 0.18330787, negative_confidence: 0.8166921 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/59beb786-b51d-4ff0-8a99-625a0e866620.png"
+Prediction { affirmative_confidence: 0.3835952, negative_confidence: 0.61640483 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/98304d8e-dcda-461d-82f9-d15dc6d31db7.png"
+Prediction { affirmative_confidence: 0.13870162, negative_confidence: 0.8612984 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/db88cc73-53fe-43e1-a459-08cf6723963f.png"
+Prediction { affirmative_confidence: 0.7063006, negative_confidence: 0.29369935 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/5ca4effd-3289-416a-89e0-be8cefe1517e.png"
+Prediction { affirmative_confidence: 0.17631344, negative_confidence: 0.8236866 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b0dc94dc-9097-4f47-af45-bec689892a5f.png"
+Prediction { affirmative_confidence: 0.39487052, negative_confidence: 0.6051294 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/c05b8739-bbc5-42c3-968e-608c069a9aa3.png"
+Prediction { affirmative_confidence: 0.22978856, negative_confidence: 0.77021146 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/e0c833e5-a8f5-462c-9046-b4f585bf2647.png"
+Prediction { affirmative_confidence: 0.31375527, negative_confidence: 0.6862448 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/3c0b350c-d00c-4ae2-a603-eb0446a922fa.png"
+Prediction { affirmative_confidence: 0.32927322, negative_confidence: 0.6707268 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/21b0ec39-2a0d-4866-a0d2-fc660f486fc9.png"
+Prediction { affirmative_confidence: 0.5177794, negative_confidence: 0.48222068 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/724f2cb1-b610-4510-8398-45bc047f9b51.png"
+Prediction { affirmative_confidence: 0.22150159, negative_confidence: 0.7784985 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/524a1e21-d801-46af-86a9-1b5f8da26762.png"
+Prediction { affirmative_confidence: 0.35597095, negative_confidence: 0.6440291 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/ef6470ac-4f99-4511-8c51-405c4b445650.png"
+Prediction { affirmative_confidence: 0.09108719, negative_confidence: 0.9089128 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/49075fdd-c433-40f6-9698-3e7a43c30720.png"
+Prediction { affirmative_confidence: 0.08914269, negative_confidence: 0.9108573 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b0d7beef-a35e-4d81-b2c1-d0c738ef2dc2.png"
+Prediction { affirmative_confidence: 0.36142626, negative_confidence: 0.6385737 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/60a606d0-a1d2-45f5-b6de-786bb51b289a.png"
+Prediction { affirmative_confidence: 0.26047626, negative_confidence: 0.73952377 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6a4db012-bb85-463b-bd63-258e5e63aad1.png"
+Prediction { affirmative_confidence: 0.12775238, negative_confidence: 0.87224764 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/7a101958-bbc5-4ac9-b2d6-a7126d7734ee.png"
+Prediction { affirmative_confidence: 0.073264636, negative_confidence: 0.92673534 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/4551e450-9f2a-4ab8-8907-d6753d0a6716.png"
+Prediction { affirmative_confidence: 0.38359526, negative_confidence: 0.6164048 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/e43a338a-9e2a-4bdd-9333-feacc1914101.png"
+Prediction { affirmative_confidence: 0.6107819, negative_confidence: 0.3892181 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/d006404a-5a6c-4ffb-b208-9f145fd910aa.png"
+Prediction { affirmative_confidence: 0.079972036, negative_confidence: 0.920028 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/e324ebbe-2fdd-41a7-a854-a8fc07dec2b9.png"
+Prediction { affirmative_confidence: 0.039104346, negative_confidence: 0.9608957 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/71295d8e-2193-4d95-9f74-88c44ac7a100.png"
+Prediction { affirmative_confidence: 0.10579597, negative_confidence: 0.8942041 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/7e4a442b-f3e1-423a-9583-0db57c404639.png"
+Prediction { affirmative_confidence: 0.1597478, negative_confidence: 0.84025216 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/d07b6d56-1abd-4e09-ac01-e195b5b5dd34.png"
+Prediction { affirmative_confidence: 0.21343069, negative_confidence: 0.78656936 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/1e22f1de-3ec1-411c-a3c4-8f152db35946.png"
+Prediction { affirmative_confidence: 0.37800336, negative_confidence: 0.62199664 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/9a720b64-97e3-4b1d-811a-2158e9e46269.png"
+Prediction { affirmative_confidence: 0.33983216, negative_confidence: 0.6601678 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/5f33ca4e-9fe5-4a1a-9add-589f724460b1.png"
+Prediction { affirmative_confidence: 0.9146342, negative_confidence: 0.08536574 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/ed81a498-6ce2-483d-b637-68093677e633.png"
+Prediction { affirmative_confidence: 0.14446564, negative_confidence: 0.8555344 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/8e6ef3e8-3a55-44d3-94ff-9f32b0eb857b.png"
+Prediction { affirmative_confidence: 0.37244374, negative_confidence: 0.62755626 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/801606c8-bf33-4a6d-b366-32919e74a6ac.png"
+Prediction { affirmative_confidence: 0.029706815, negative_confidence: 0.9702932 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/38baa435-80a0-4ee1-a3c9-d48c7dfa1e2d.png"
+Prediction { affirmative_confidence: 0.22978859, negative_confidence: 0.7702114 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/1bc3bdc3-5d67-47c2-bf50-d4e160a3c873.png"
+Prediction { affirmative_confidence: 0.1941999, negative_confidence: 0.80580014 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/98ea39e7-a722-42b9-9efd-5bc69f445268.png"
+Prediction { affirmative_confidence: 0.042828895, negative_confidence: 0.9571711 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/9ee9e413-43d7-4e15-af1b-4779f8cd66df.png"
+Prediction { affirmative_confidence: 0.35597095, negative_confidence: 0.6440291 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/1999d660-7984-4ebd-9440-38f460abc111.png"
+Prediction { affirmative_confidence: 0.12775241, negative_confidence: 0.8722476 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/febcfac6-026c-4df0-bcfc-0607ea4e814c.png"
+Prediction { affirmative_confidence: 0.37800336, negative_confidence: 0.62199664 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/54f31923-6406-41af-9477-d6eeebd91d7d.png"
+Prediction { affirmative_confidence: 0.2094764, negative_confidence: 0.7905236 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/7ddba02d-f87a-427d-b2c9-91d8b2f53886.png"
+Prediction { affirmative_confidence: 0.117549576, negative_confidence: 0.8824504 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/0d24afa7-8db3-4386-99bd-acd7cd4259c8.png"
+Prediction { affirmative_confidence: 0.14446564, negative_confidence: 0.8555344 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/d8c37545-7d86-4dd3-a184-a55efc359eb4.png"
+Prediction { affirmative_confidence: 0.36142626, negative_confidence: 0.63857377 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/548154ed-0f35-41cb-a76a-2548441f7e98.png"
+Prediction { affirmative_confidence: 0.091087215, negative_confidence: 0.9089128 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/d249ab6f-9901-4fdc-bb02-c8237c4a41ee.png"
+Prediction { affirmative_confidence: 0.07997205, negative_confidence: 0.920028 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/93966781-c6c8-494d-8ef6-efbe82cb8623.png"
+Prediction { affirmative_confidence: 0.13870157, negative_confidence: 0.8612984 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/59e85b83-b42c-4e98-be1c-071cfb4beffb.png"
+Prediction { affirmative_confidence: 0.014131358, negative_confidence: 0.9858686 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/8e6c3a77-ada6-4f59-81bf-0fbc475be1a6.png"
+Prediction { affirmative_confidence: 0.10579597, negative_confidence: 0.8942041 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/5e6a5cde-3a70-43f1-9b43-5438c35e4844.png"
+Prediction { affirmative_confidence: 0.32927322, negative_confidence: 0.6707268 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/bfc10755-1c03-4450-8d69-bef81145d6c8.png"
+Prediction { affirmative_confidence: 0.19793802, negative_confidence: 0.802062 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/593fa110-a4b4-469d-be0a-199843a1eac7.png"
+Prediction { affirmative_confidence: 0.18688497, negative_confidence: 0.81311506 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/8898d70b-46ff-41bd-9cc4-3008d06f5e90.png"
+Prediction { affirmative_confidence: 0.5706711, negative_confidence: 0.42932898 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2d042bab-1132-409d-8790-78f31db52ae5.png"
+Prediction { affirmative_confidence: 0.37800336, negative_confidence: 0.62199664 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/c2745e2b-0917-46cb-a9c8-e0ffadd061d9.png"
+Prediction { affirmative_confidence: 0.16953051, negative_confidence: 0.8304695 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/7436059f-6153-45da-b844-8955cf5d65ed.png"
+Prediction { affirmative_confidence: 0.13870162, negative_confidence: 0.8612984 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/57392046-b9a7-4686-bc01-8e655aa7819f.png"
+Prediction { affirmative_confidence: 0.1474216, negative_confidence: 0.85257846 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/7250a465-ff0e-48de-976a-4dd0ab564a54.png"
+Prediction { affirmative_confidence: 0.21343069, negative_confidence: 0.78656936 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/3f79d6eb-b98b-43fd-aa40-dd8b63bd0660.png"
+Prediction { affirmative_confidence: 0.11036781, negative_confidence: 0.8896322 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/9920ab0b-a76b-4070-9865-56c6db625e88.png"
+Prediction { affirmative_confidence: 0.09509096, negative_confidence: 0.904909 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/14a8451e-7b1c-41db-a214-99be4a14b01d.png"
+Prediction { affirmative_confidence: 0.26971614, negative_confidence: 0.73028386 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/10c30bc9-de9a-4f91-9c23-a952622b6a33.png"
+Prediction { affirmative_confidence: 0.050175115, negative_confidence: 0.94982487 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6ed4043f-8f84-4632-b760-48968de77e39.png"
+Prediction { affirmative_confidence: 0.21343069, negative_confidence: 0.78656936 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/96714092-bc26-4b5c-91d8-4b92d280b281.png"
+Prediction { affirmative_confidence: 0.2888039, negative_confidence: 0.7111961 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/98730c96-88a7-4f17-a13f-418d9ef18568.png"
+Prediction { affirmative_confidence: 0.13313174, negative_confidence: 0.86686826 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b38c7d88-0c96-4a0a-80af-9ad65ded4300.png"
+Prediction { affirmative_confidence: 0.18688497, negative_confidence: 0.81311506 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/e6d912d5-5a59-4e94-825a-85c683d0fa6a.png"
+Prediction { affirmative_confidence: 0.19793807, negative_confidence: 0.802062 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/4b3dc401-8783-4305-af2c-f135525bae69.png"
+Prediction { affirmative_confidence: 0.2650704, negative_confidence: 0.73492956 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/bbee44bd-dda9-4d7d-a8d8-077e7b80f4e9.png"
+Prediction { affirmative_confidence: 0.039104354, negative_confidence: 0.9608956 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2511a213-f9b8-4c1e-a476-4a5d590a3f20.png"
+Prediction { affirmative_confidence: 0.29369935, negative_confidence: 0.7063006 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2403ea58-5cf0-4c1c-8196-577c0289f34f.png"
+Prediction { affirmative_confidence: 0.097151384, negative_confidence: 0.90284866 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/97665e7c-a6c9-4ae8-adda-795feb4abb83.png"
+Prediction { affirmative_confidence: 0.47038996, negative_confidence: 0.52961004 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/7d41648e-25c3-4e89-aa76-b5a6eb238812.png"
+Prediction { affirmative_confidence: 0.3780033, negative_confidence: 0.6219967 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/8e32f2b9-dd13-4684-87bb-aa532d4436b4.png"
+Prediction { affirmative_confidence: 0.6385737, negative_confidence: 0.36142626 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/59ad78df-27db-4fe3-af3e-cbebfdca709c.png"
+Prediction { affirmative_confidence: 0.112717964, negative_confidence: 0.8872821 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/686e67d3-8318-401f-b926-2637fd6233ed.png"
+Prediction { affirmative_confidence: 0.8304695, negative_confidence: 0.16953056 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/59887462-1dbd-4f44-9434-97520121c61b.png"
+Prediction { affirmative_confidence: 0.26047623, negative_confidence: 0.7395238 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/dcbb58be-8515-4eec-ba8a-de4971df1361.png"
+Prediction { affirmative_confidence: 0.087235734, negative_confidence: 0.9127643 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/681c3c9b-0af2-4dc5-9f55-1e9a2cbb1bca.png"
+Prediction { affirmative_confidence: 0.43514892, negative_confidence: 0.5648511 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/76f3eaf8-1f14-4224-bf9c-c9def22e1c14.png"
+Prediction { affirmative_confidence: 0.43514895, negative_confidence: 0.56485105 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/dae857bc-2451-4645-bee1-d9262f666ce7.png"
+Prediction { affirmative_confidence: 0.13870162, negative_confidence: 0.8612984 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b793450b-8418-4834-8cc8-3a79485f88ac.png"
+Prediction { affirmative_confidence: 0.05367641, negative_confidence: 0.94632363 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/4bcb7d97-6659-47f7-a4ed-966dcfc434d7.png"
+Prediction { affirmative_confidence: 0.087235734, negative_confidence: 0.9127643 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/7d5951ef-f443-490e-9d47-8890050f3a30.png"
+Prediction { affirmative_confidence: 0.4527102, negative_confidence: 0.54728985 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/99c62ea8-4223-4287-9b81-66811d27e99c.png"
+Prediction { affirmative_confidence: 0.044816054, negative_confidence: 0.955184 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/66090c9c-7fe7-451e-b44e-bfe1dad4acf6.png"
+Prediction { affirmative_confidence: 0.027723243, negative_confidence: 0.9722767 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/87d07f1c-2bd1-458c-933b-f29b6f48b3ee.png"
+Prediction { affirmative_confidence: 0.13589263, negative_confidence: 0.86410743 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/b126589a-bef1-415e-9106-d7ae249bee09.png"
+Prediction { affirmative_confidence: 0.4527102, negative_confidence: 0.54728985 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2a10ef55-e0f8-4b42-a3cd-352094072101.png"
+Prediction { affirmative_confidence: 0.13041848, negative_confidence: 0.8695816 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/2e859363-a3a4-4bb4-ad4e-16417a3b8074.png"
+Prediction { affirmative_confidence: 0.30867162, negative_confidence: 0.69132835 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/71ae54aa-b50a-422c-bb16-2bf649d1e5dd.png"
+Prediction { affirmative_confidence: 0.36142626, negative_confidence: 0.6385737 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6baa0560-3121-4e66-8250-3958dbb73df6.png"
+Prediction { affirmative_confidence: 0.33983216, negative_confidence: 0.6601678 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/4cdc59b7-453c-440d-bcb9-2a1b6956fed6.png"
+Prediction { affirmative_confidence: 0.17631347, negative_confidence: 0.82368654 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/667a6be9-2007-457a-a043-524f04b052c1.png"
+Prediction { affirmative_confidence: 0.12255966, negative_confidence: 0.87744033 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/a4b91b97-39f5-4cc6-a233-05c6ff3b6ba5.png"
+Prediction { affirmative_confidence: 0.052484434, negative_confidence: 0.94751555 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/5b5e027b-5611-496c-af52-3d64af57dbc1.png"
+Prediction { affirmative_confidence: 0.058704093, negative_confidence: 0.9412959 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/6cfe451b-b123-45dd-bde3-9461eef9d039.png"
+Prediction { affirmative_confidence: 0.5880081, negative_confidence: 0.41199192 }
+[traffic_lights] "./test_data/4x4/traffic lights/not matches/96f4c420-e98c-4a5f-bfce-0a738fc9f0c9.png"
+Prediction { affirmative_confidence: 0.1662177, negative_confidence: 0.8337823 }
+[traffic_lights] 91.6% 239 Correct, 8.4% 22 Incorrect (261 total)
+Beginning test on a fire hydrant/a_fire_hydrant...
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/cfea5b9a-992d-4624-9b92-85c60ce8221f.png"
+Prediction { affirmative_confidence: 0.9566171, negative_confidence: 0.043382905 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/8c487704-7483-4ca4-b712-45ff00b0ea85.png"
+Prediction { affirmative_confidence: 0.95329195, negative_confidence: 0.046708066 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/3076991b-07fa-4e51-af3e-f445853dd860.png"
+Prediction { affirmative_confidence: 0.9546501, negative_confidence: 0.045349866 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/03fb03bc-b303-4348-aa34-7f37841fca0f.png"
+Prediction { affirmative_confidence: 0.9418053, negative_confidence: 0.05819472 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/e83e8256-0582-4d44-8aba-3d029184ad8a.png"
+Prediction { affirmative_confidence: 0.9546501, negative_confidence: 0.045349866 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/402fa618-bb39-46e3-b11e-6bb6646484b8.png"
+Prediction { affirmative_confidence: 0.9355797, negative_confidence: 0.06442031 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/b2f29739-e618-4107-abbf-b89fd1bc6059.png"
+Prediction { affirmative_confidence: 0.95531505, negative_confidence: 0.044684954 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/7799b380-d4ef-46d3-b112-e9dd15c5cf97.png"
+Prediction { affirmative_confidence: 0.3897094, negative_confidence: 0.6102906 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/a32c90dd-1053-43af-a9f9-a9501c04d02e.png"
+Prediction { affirmative_confidence: 0.947463, negative_confidence: 0.05253697 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/56900748-2865-433a-961c-18f3121a093e.png"
+Prediction { affirmative_confidence: 0.9608946, negative_confidence: 0.03910538 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/70f1e03b-cda5-49f3-8795-c9f619ca173d.png"
+Prediction { affirmative_confidence: 0.9566171, negative_confidence: 0.043382905 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/f47624e7-73ac-495f-b9fd-90a3ac10dae0.png"
+Prediction { affirmative_confidence: 0.94429684, negative_confidence: 0.05570314 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/83b2f14e-ca42-4b43-be77-767cbbee4246.png"
+Prediction { affirmative_confidence: 0.9497253, negative_confidence: 0.050274696 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/821e0958-b45c-4949-acec-a33e1c37d0a7.png"
+Prediction { affirmative_confidence: 0.9504587, negative_confidence: 0.049541324 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/c790d920-6b1d-464d-9f9d-ea7f3b7c70c8.png"
+Prediction { affirmative_confidence: 0.9597156, negative_confidence: 0.04028446 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/70d708ad-61f6-4ea5-9219-81130c29a42f.png"
+Prediction { affirmative_confidence: 0.95531505, negative_confidence: 0.044684954 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/aa5dbf9e-390d-48ad-8852-68a772732794.png"
+Prediction { affirmative_confidence: 0.94429684, negative_confidence: 0.05570314 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/135f0921-aa0d-45d4-9226-1bb13f1e160a.png"
+Prediction { affirmative_confidence: 0.94429684, negative_confidence: 0.05570314 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/c952b957-e419-41f2-a796-414c242d55a3.png"
+Prediction { affirmative_confidence: 0.96423644, negative_confidence: 0.03576364 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/019ad382-3a34-4cdf-b4b0-446e1e1dfc52.png"
+Prediction { affirmative_confidence: 0.93369, negative_confidence: 0.06630998 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/514286c4-32cc-4686-b419-2bc04bbe6a64.png"
+Prediction { affirmative_confidence: 0.9400865, negative_confidence: 0.05991345 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/a9ca93cd-d930-40b8-b548-90be36101489.png"
+Prediction { affirmative_confidence: 0.92975533, negative_confidence: 0.070244655 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/5c463210-d6fe-4310-84e9-fed3a0ff13f9.png"
+Prediction { affirmative_confidence: 0.9365057, negative_confidence: 0.063494384 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/b171c586-f967-48c5-b826-c51c997668ab.png"
+Prediction { affirmative_confidence: 0.95788294, negative_confidence: 0.042117126 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/82879161-b2a1-4682-8822-3fb39eeb7c23.png"
+Prediction { affirmative_confidence: 0.9572544, negative_confidence: 0.042745534 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/6919f4fb-eb22-442f-b1cf-fd34cb3c014c.png"
+Prediction { affirmative_confidence: 0.9539758, negative_confidence: 0.0460242 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/6f0ce37d-2bd7-41cd-b4e2-fb1b635abb30.png"
+Prediction { affirmative_confidence: 0.9518951, negative_confidence: 0.048104893 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/086e10b9-bce0-4098-8d73-061c5d65638d.png"
+Prediction { affirmative_confidence: 0.3897094, negative_confidence: 0.6102906 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/88b0b831-1e24-469e-9cd8-8f181f910927.png"
+Prediction { affirmative_confidence: 0.9566171, negative_confidence: 0.043382905 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/65f04ec1-bc85-4425-bf39-713b92f57fb9.png"
+Prediction { affirmative_confidence: 0.9482276, negative_confidence: 0.051772393 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/88f1cac7-a484-49af-8a94-0ba092925f7f.png"
+Prediction { affirmative_confidence: 0.9572544, negative_confidence: 0.042745534 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/854347b5-a672-4853-a398-0decb897410d.png"
+Prediction { affirmative_confidence: 0.9418053, negative_confidence: 0.05819472 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/b3802ffa-ff08-43bd-9bfe-de78861d0a1a.png"
+Prediction { affirmative_confidence: 0.9525984, negative_confidence: 0.04740159 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/matches/73ad14ef-5d77-41db-bc5d-8a51a2b42ae4.png"
+Prediction { affirmative_confidence: 0.9597156, negative_confidence: 0.04028446 }
+[a_fire_hydrant] 94.1% 32 Correct, 5.9% 2 Incorrect (34 total)
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/361838c1-88f2-4ace-b5ce-23d829d9cc53.png"
+Prediction { affirmative_confidence: 0.13159423, negative_confidence: 0.86840576 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/9e538511-8692-49d7-b3af-11003b09b940.png"
+Prediction { affirmative_confidence: 0.084565684, negative_confidence: 0.9154343 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/fed64a24-a933-438b-965a-d2f00b91fcce.png"
+Prediction { affirmative_confidence: 0.048104882, negative_confidence: 0.9518951 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/4d7f7309-fe44-442f-974d-0654cf65cd9c.png"
+Prediction { affirmative_confidence: 0.06258088, negative_confidence: 0.93741906 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/0c10cd1c-427a-41d1-add7-5ab492345db1.png"
+Prediction { affirmative_confidence: 0.037398655, negative_confidence: 0.96260136 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/c3106508-05c9-4927-94d9-38029a2252df.png"
+Prediction { affirmative_confidence: 0.040886685, negative_confidence: 0.9591133 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/ca37edf7-8faa-4ae9-a4b1-6babb2c5d6a0.png"
+Prediction { affirmative_confidence: 0.044684943, negative_confidence: 0.95531505 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/a1338b3d-c9e5-4f8d-aa4d-8af9e36eec3e.png"
+Prediction { affirmative_confidence: 0.057352774, negative_confidence: 0.9426472 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/f72d1282-1bdc-4365-83eb-a50a8cd6f5b7.png"
+Prediction { affirmative_confidence: 0.042117115, negative_confidence: 0.95788294 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/9e6286eb-8b09-44de-900e-8d1061ce43be.png"
+Prediction { affirmative_confidence: 0.072292, negative_confidence: 0.927708 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/cc7605e2-b8ce-42eb-833f-5e7b824a99a7.png"
+Prediction { affirmative_confidence: 0.037959445, negative_confidence: 0.96204054 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/06248e6c-1a8c-42c5-bfcf-b945427743f5.png"
+Prediction { affirmative_confidence: 0.039105374, negative_confidence: 0.9608946 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/f6bafca5-3a6b-471d-9012-0f3fed06c280.png"
+Prediction { affirmative_confidence: 0.047401577, negative_confidence: 0.9525984 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/bb5cded9-b6d7-4927-af4d-3f9ce79c8078.png"
+Prediction { affirmative_confidence: 0.043382905, negative_confidence: 0.9566171 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/74ef0190-04d3-4813-b094-786b9bd4bf27.png"
+Prediction { affirmative_confidence: 0.051018335, negative_confidence: 0.9489817 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/7fa2cae5-c4c3-45e3-8bc2-9011302126dd.png"
+Prediction { affirmative_confidence: 0.05101835, negative_confidence: 0.9489817 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/8d9e836d-95ad-4b8f-85e0-f65a763fa3c0.png"
+Prediction { affirmative_confidence: 0.037398644, negative_confidence: 0.96260136 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/1ff670a9-88b2-44f1-b441-10b16d7ce988.png"
+Prediction { affirmative_confidence: 0.056522302, negative_confidence: 0.94347763 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/1e94e16e-eb4f-4ac0-ac67-3f146f129dd7.png"
+Prediction { affirmative_confidence: 0.047401577, negative_confidence: 0.9525984 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/35499ca8-0578-4272-a8ad-4d37bbc6011a.png"
+Prediction { affirmative_confidence: 0.088227645, negative_confidence: 0.9117723 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/215cb9ca-606e-4d6c-9215-4f1873d97437.png"
+Prediction { affirmative_confidence: 0.049541324, negative_confidence: 0.9504587 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/b433a94f-4d2b-4f07-b8f8-fde3dd759ac9.png"
+Prediction { affirmative_confidence: 0.05101835, negative_confidence: 0.9489817 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/028d690b-344e-4a67-9fdb-9354577a7b88.png"
+Prediction { affirmative_confidence: 0.04881808, negative_confidence: 0.9511819 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/b238aa4b-a115-4a6f-85dc-d8d3dbb8951f.png"
+Prediction { affirmative_confidence: 0.05331219, negative_confidence: 0.94668776 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/b3123ae0-f6be-4476-8f71-bbe17bdb6693.png"
+Prediction { affirmative_confidence: 0.055703126, negative_confidence: 0.94429684 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/0957fa63-7270-4771-b022-76700aca75d0.png"
+Prediction { affirmative_confidence: 0.044684943, negative_confidence: 0.95531505 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/dc6ed96b-8069-49f9-889a-52dda26d07e9.png"
+Prediction { affirmative_confidence: 0.049541324, negative_confidence: 0.9504587 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/f6eea355-834a-458b-8dd0-37449f9993ee.png"
+Prediction { affirmative_confidence: 0.19663364, negative_confidence: 0.80336636 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/7d99ddca-770a-4f61-a79f-230b0555cc36.png"
+Prediction { affirmative_confidence: 0.059048235, negative_confidence: 0.9409518 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/0f81279d-bdab-4385-980a-d6f92f59b240.png"
+Prediction { affirmative_confidence: 0.048104882, negative_confidence: 0.9518951 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/70cf65c8-eb78-4f17-a922-9162bc14f018.png"
+Prediction { affirmative_confidence: 0.054895155, negative_confidence: 0.94510484 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/7b5162bf-0a3a-4208-99d5-4e26dff067a0.png"
+Prediction { affirmative_confidence: 0.038528323, negative_confidence: 0.96147174 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/1fa2e9ba-fb20-4904-af8d-15230d670719.png"
+Prediction { affirmative_confidence: 0.039105374, negative_confidence: 0.9608946 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/b4f488ea-816d-41b6-9ace-2684ef8fa63b.png"
+Prediction { affirmative_confidence: 0.039105374, negative_confidence: 0.9608946 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/dd203f5e-a2cb-49f8-8e0f-4d5356679d56.png"
+Prediction { affirmative_confidence: 0.060790565, negative_confidence: 0.9392094 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/fd19da42-7635-48dd-b56f-075e8000ce4d.png"
+Prediction { affirmative_confidence: 0.037959453, negative_confidence: 0.96204054 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/096febbe-91b3-4ec2-8207-4f3d6791c29a.png"
+Prediction { affirmative_confidence: 0.037398644, negative_confidence: 0.96260136 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/7ef2ece5-b64e-4e13-a589-60f298596752.png"
+Prediction { affirmative_confidence: 0.056522287, negative_confidence: 0.94347763 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/b813d28c-eac2-46da-95a5-fc4808167ef2.png"
+Prediction { affirmative_confidence: 0.037398644, negative_confidence: 0.96260136 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/56471d39-2933-4af4-9c3a-38642c017197.png"
+Prediction { affirmative_confidence: 0.044684954, negative_confidence: 0.95531505 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/8ce74b03-3dc1-4500-abbf-2c6df8a5179b.png"
+Prediction { affirmative_confidence: 0.052536957, negative_confidence: 0.947463 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/e2fc793c-21d1-4ede-be3d-c5efbd8a87ee.png"
+Prediction { affirmative_confidence: 0.03369039, negative_confidence: 0.9663096 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/ca488065-6460-4a04-9fc5-507f67ae1895.png"
+Prediction { affirmative_confidence: 0.06349439, negative_confidence: 0.93650556 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/5ffd9988-3009-404f-9f8f-b5bb73406ea6.png"
+Prediction { affirmative_confidence: 0.044029336, negative_confidence: 0.95597064 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/2aa387a2-ec31-4632-acd3-9dde8b42a7a7.png"
+Prediction { affirmative_confidence: 0.037959445, negative_confidence: 0.96204054 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/2aaebd1b-1ac4-4f53-b0b9-841c178bc078.png"
+Prediction { affirmative_confidence: 0.054895144, negative_confidence: 0.94510484 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/a3d3f4d4-42a1-49ca-a7ea-6d34aea31bff.png"
+Prediction { affirmative_confidence: 0.03684581, negative_confidence: 0.9631542 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/9c580114-58aa-417f-b3c4-caf6782c81cd.png"
+Prediction { affirmative_confidence: 0.054895144, negative_confidence: 0.94510484 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/8ebf5908-015b-4720-ad07-878b51c6fb48.png"
+Prediction { affirmative_confidence: 0.07876812, negative_confidence: 0.9212319 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/5588efa0-9846-49e1-98aa-b347e09b2dee.png"
+Prediction { affirmative_confidence: 0.045349866, negative_confidence: 0.9546501 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/fe84d917-1604-414c-8293-5d2a9f425d83.png"
+Prediction { affirmative_confidence: 0.0460242, negative_confidence: 0.9539758 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/64a80b57-df6c-4995-b472-b35f1b50c699.png"
+Prediction { affirmative_confidence: 0.043382894, negative_confidence: 0.9566171 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/2f7ae23c-fbd4-4350-84e2-4f2691341126.png"
+Prediction { affirmative_confidence: 0.046708055, negative_confidence: 0.95329195 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/01b45f78-8154-4770-8309-d9ac1312abfe.png"
+Prediction { affirmative_confidence: 0.044684943, negative_confidence: 0.95531505 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/ad6b7d5b-aec5-410e-9368-2a8489dce528.png"
+Prediction { affirmative_confidence: 0.047401577, negative_confidence: 0.9525984 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/0906f418-d24c-4c9f-a686-88916f538ee9.png"
+Prediction { affirmative_confidence: 0.07439421, negative_confidence: 0.9256058 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/d4f8fdaa-0d19-4c19-b48e-11dfca3799dd.png"
+Prediction { affirmative_confidence: 0.06258088, negative_confidence: 0.93741906 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/40b3149b-36ad-4aac-8ffe-8f341acafa4d.png"
+Prediction { affirmative_confidence: 0.043382894, negative_confidence: 0.9566171 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/6a02e92d-8b1f-4365-ab25-0368e4aceb2a.png"
+Prediction { affirmative_confidence: 0.044684943, negative_confidence: 0.95531505 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/91ef805a-d702-4d5a-8ee9-3a0c4ee3942d.png"
+Prediction { affirmative_confidence: 0.041497532, negative_confidence: 0.9585024 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/28bccca6-8096-424c-afcf-5e6a86590758.png"
+Prediction { affirmative_confidence: 0.03910538, negative_confidence: 0.9608946 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/812e3fb3-81f0-4a38-b894-ed8d0fa1529d.png"
+Prediction { affirmative_confidence: 0.048104893, negative_confidence: 0.9518951 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/02b63a96-f16c-4932-a5fd-49e5d3c383d8.png"
+Prediction { affirmative_confidence: 0.038528323, negative_confidence: 0.96147174 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/a598328c-109c-45e9-bca7-025d8df45212.png"
+Prediction { affirmative_confidence: 0.04274553, negative_confidence: 0.9572545 }
+[a_fire_hydrant] "./test_data/3x3/a fire hydrant/not matches/a4126295-2245-454a-959e-04824c333ba4.png"
+Prediction { affirmative_confidence: 0.043382905, negative_confidence: 0.9566171 }
+[a_fire_hydrant] 100.0% 65 Correct, 0.0% 0 Incorrect (65 total)
+Beginning test on bicycles/bicycles...
+[bicycles] "./test_data/3x3/bicycles/matches/5ea5c7ca-093b-41c7-943f-18ed8ab04a27.png"
+Prediction { affirmative_confidence: 0.92965126, negative_confidence: 0.07034873 }
+[bicycles] "./test_data/3x3/bicycles/matches/61ec5a28-fa74-4320-88fa-82fbd1219822.png"
+Prediction { affirmative_confidence: 0.9452349, negative_confidence: 0.054765087 }
+[bicycles] "./test_data/3x3/bicycles/matches/fa904bca-a165-4437-8854-62cfd52827ec.png"
+Prediction { affirmative_confidence: 0.93389404, negative_confidence: 0.066105984 }
+[bicycles] "./test_data/3x3/bicycles/matches/51fa4a93-4844-4b75-a28a-b35244881838.png"
+Prediction { affirmative_confidence: 0.9153722, negative_confidence: 0.08462778 }
+[bicycles] "./test_data/3x3/bicycles/matches/3b60f8c3-ec56-49ee-afe1-a462ba0d0282.png"
+Prediction { affirmative_confidence: 0.9474937, negative_confidence: 0.052506324 }
+[bicycles] "./test_data/3x3/bicycles/matches/42aa1443-4070-46a6-9530-adf3b3d50ee4.png"
+Prediction { affirmative_confidence: 0.7526226, negative_confidence: 0.24737741 }
+[bicycles] "./test_data/3x3/bicycles/matches/339c3afc-71f9-4eb1-a870-4de0824f15e2.png"
+Prediction { affirmative_confidence: 0.19054957, negative_confidence: 0.8094504 }
+[bicycles] "./test_data/3x3/bicycles/matches/f62cc9b5-ca1c-4142-b10f-5bd440bec54e.png"
+Prediction { affirmative_confidence: 0.9266843, negative_confidence: 0.07331566 }
+[bicycles] "./test_data/3x3/bicycles/matches/6cb45c4f-cdf8-4bd7-aaa3-9a7c06c165e5.png"
+Prediction { affirmative_confidence: 0.9251581, negative_confidence: 0.07484196 }
+[bicycles] "./test_data/3x3/bicycles/matches/897480fb-3723-4c9d-9ea4-7e18f0be1c45.png"
+Prediction { affirmative_confidence: 0.8637741, negative_confidence: 0.1362259 }
+[bicycles] "./test_data/3x3/bicycles/matches/77103239-0c74-48ba-add0-b832f1b6a15b.png"
+Prediction { affirmative_confidence: 0.83541024, negative_confidence: 0.16458973 }
+[bicycles] "./test_data/3x3/bicycles/matches/699f3760-5960-4d2c-998b-acc50f034202.png"
+Prediction { affirmative_confidence: 0.96263474, negative_confidence: 0.03736521 }
+[bicycles] "./test_data/3x3/bicycles/matches/167b64bf-2a56-4513-8509-ae9a884f609f.png"
+Prediction { affirmative_confidence: 0.9828767, negative_confidence: 0.017123342 }
+[bicycles] "./test_data/3x3/bicycles/matches/ffd854d4-9e27-47a8-92df-83d472c09876.png"
+Prediction { affirmative_confidence: 0.96015793, negative_confidence: 0.03984204 }
+[bicycles] "./test_data/3x3/bicycles/matches/aa325cf2-87fb-41d3-8328-080a0eb2b12e.png"
+Prediction { affirmative_confidence: 0.76882005, negative_confidence: 0.23117994 }
+[bicycles] "./test_data/3x3/bicycles/matches/e63cd0c3-a2f5-41cc-af25-6b8e0e7d5038.png"
+Prediction { affirmative_confidence: 0.9266843, negative_confidence: 0.07331564 }
+[bicycles] "./test_data/3x3/bicycles/matches/994db791-04d3-49db-94f2-4f94365e5aaf.png"
+Prediction { affirmative_confidence: 0.9153722, negative_confidence: 0.08462778 }
+[bicycles] "./test_data/3x3/bicycles/matches/e7c6ea66-bade-405a-8962-b14e442fd4ae.png"
+Prediction { affirmative_confidence: 0.8833991, negative_confidence: 0.11660084 }
+[bicycles] "./test_data/3x3/bicycles/matches/ec7d09bc-154b-4f43-9ba5-018e872fa0a8.png"
+Prediction { affirmative_confidence: 0.8943803, negative_confidence: 0.10561979 }
+[bicycles] "./test_data/3x3/bicycles/matches/822f624a-8e73-4b54-9e20-e8c05d8df789.png"
+Prediction { affirmative_confidence: 0.95842004, negative_confidence: 0.041579906 }
+[bicycles] "./test_data/3x3/bicycles/matches/6237776c-2b67-4de9-8505-d37fd666b231.png"
+Prediction { affirmative_confidence: 0.9170802, negative_confidence: 0.082919784 }
+[bicycles] "./test_data/3x3/bicycles/matches/de0628e7-55c4-4149-a9ac-2550e377eb0f.png"
+Prediction { affirmative_confidence: 0.8228031, negative_confidence: 0.17719692 }
+[bicycles] "./test_data/3x3/bicycles/matches/a11b7e78-4049-43aa-8f3a-f6a326b226fe.png"
+Prediction { affirmative_confidence: 0.93250686, negative_confidence: 0.06749312 }
+[bicycles] "./test_data/3x3/bicycles/matches/f83876f6-8ad6-41f8-8a21-423caa32d2ce.png"
+Prediction { affirmative_confidence: 0.963427, negative_confidence: 0.03657297 }
+[bicycles] "./test_data/3x3/bicycles/matches/e927eb27-57ea-49cd-8263-f6d6772790f6.png"
+Prediction { affirmative_confidence: 0.84143883, negative_confidence: 0.15856116 }
+[bicycles] "./test_data/3x3/bicycles/matches/e1ad31f7-47e7-49dd-9b6a-74d2c510f736.png"
+Prediction { affirmative_confidence: 0.9474937, negative_confidence: 0.052506346 }
+[bicycles] "./test_data/3x3/bicycles/matches/125f5f29-b2d6-40c4-9799-79b98a6ce460.png"
+Prediction { affirmative_confidence: 0.63560164, negative_confidence: 0.36439842 }
+[bicycles] "./test_data/3x3/bicycles/matches/892deb5a-b3e9-4f5c-8e5f-c177b971becf.png"
+Prediction { affirmative_confidence: 0.9118601, negative_confidence: 0.088139825 }
+[bicycles] "./test_data/3x3/bicycles/matches/cd484623-a13f-4e95-85fa-d00cfe9d6e7b.png"
+Prediction { affirmative_confidence: 0.9474937, negative_confidence: 0.052506335 }
+[bicycles] "./test_data/3x3/bicycles/matches/13d2d5f6-e668-4d7d-a966-b12607de280b.png"
+Prediction { affirmative_confidence: 0.5826824, negative_confidence: 0.41731763 }
+[bicycles] "./test_data/3x3/bicycles/matches/650f2515-86e5-4254-af26-baa5cef01aae.png"
+Prediction { affirmative_confidence: 0.8879059, negative_confidence: 0.11209418 }
+[bicycles] "./test_data/3x3/bicycles/matches/66856f60-9fb5-403f-9946-870be31d0f0c.png"
+Prediction { affirmative_confidence: 0.6147474, negative_confidence: 0.38525257 }
+[bicycles] "./test_data/3x3/bicycles/matches/0db43b8e-4271-4447-b78a-2337e182911d.png"
+Prediction { affirmative_confidence: 0.9136324, negative_confidence: 0.086367644 }
+[bicycles] "./test_data/3x3/bicycles/matches/f30be1fe-0a53-4ee1-8df2-b6ad02a6cd8b.png"
+Prediction { affirmative_confidence: 0.9236025, negative_confidence: 0.07639742 }
+[bicycles] 97.1% 33 Correct, 2.9% 1 Incorrect (34 total)
+[bicycles] "./test_data/3x3/bicycles/not matches/384911ff-4738-4443-9f0e-179a09f682ff.png"
+Prediction { affirmative_confidence: 0.05592852, negative_confidence: 0.94407153 }
+[bicycles] "./test_data/3x3/bicycles/not matches/c4d2be90-3fb6-4bb0-987a-eb85f051d070.png"
+Prediction { affirmative_confidence: 0.05141022, negative_confidence: 0.9485898 }
+[bicycles] "./test_data/3x3/bicycles/not matches/b64ccaad-66aa-4bd8-a20e-cf7a41407646.png"
+Prediction { affirmative_confidence: 0.63560164, negative_confidence: 0.36439842 }
+[bicycles] "./test_data/3x3/bicycles/not matches/2dc96ff0-0632-4037-9dd6-b6238327dfba.png"
+Prediction { affirmative_confidence: 0.08813985, negative_confidence: 0.9118601 }
+[bicycles] "./test_data/3x3/bicycles/not matches/47dd7ba3-0afa-4f7d-94e6-6386bdbf7c95.png"
+Prediction { affirmative_confidence: 0.2910853, negative_confidence: 0.7089147 }
+[bicycles] "./test_data/3x3/bicycles/not matches/e92bff05-e853-4e68-bdd6-cba6571ac70e.png"
+Prediction { affirmative_confidence: 0.90634507, negative_confidence: 0.09365492 }
+[bicycles] "./test_data/3x3/bicycles/not matches/973e2a5f-3ff4-4edb-9c06-1ec38a5980b5.png"
+Prediction { affirmative_confidence: 0.048250366, negative_confidence: 0.9517496 }
+[bicycles] "./test_data/3x3/bicycles/not matches/a766f690-bc8e-45a3-b9a2-5886e4d5776f.png"
+Prediction { affirmative_confidence: 0.78800225, negative_confidence: 0.2119977 }
+[bicycles] "./test_data/3x3/bicycles/not matches/9ec9bb6f-530b-44fc-a09c-448045eb89c7.png"
+Prediction { affirmative_confidence: 0.038999423, negative_confidence: 0.9610006 }
+[bicycles] "./test_data/3x3/bicycles/not matches/68e77f14-4dfe-406f-aea0-e7a9823a3a9b.png"
+Prediction { affirmative_confidence: 0.05033577, negative_confidence: 0.9496642 }
+[bicycles] "./test_data/3x3/bicycles/not matches/8bae528f-72cb-4212-84df-8cfb7ed01e0a.png"
+Prediction { affirmative_confidence: 0.07034875, negative_confidence: 0.92965126 }
+[bicycles] "./test_data/3x3/bicycles/not matches/ac473146-9899-4a18-8036-41cdaa0c6cff.png"
+Prediction { affirmative_confidence: 0.045275483, negative_confidence: 0.95472455 }
+[bicycles] "./test_data/3x3/bicycles/not matches/874cb37a-18ec-4b04-b42b-a472ac6e9816.png"
+Prediction { affirmative_confidence: 0.059559703, negative_confidence: 0.9404403 }
+[bicycles] "./test_data/3x3/bicycles/not matches/bc0630ff-d5a9-43d8-a2ab-da18ed6ae9f5.png"
+Prediction { affirmative_confidence: 0.055928506, negative_confidence: 0.94407153 }
+[bicycles] "./test_data/3x3/bicycles/not matches/94d6fc78-7292-4044-8097-dd9d6a119c75.png"
+Prediction { affirmative_confidence: 0.048250377, negative_confidence: 0.9517496 }
+[bicycles] "./test_data/3x3/bicycles/not matches/b973009d-3867-42f4-8569-35b738e457b5.png"
+Prediction { affirmative_confidence: 0.17080098, negative_confidence: 0.82919896 }
+[bicycles] "./test_data/3x3/bicycles/not matches/cd65c1e6-35c7-4eb5-bf7e-70359bd497ea.png"
+Prediction { affirmative_confidence: 0.1470429, negative_confidence: 0.8529571 }
+[bicycles] "./test_data/3x3/bicycles/not matches/58c3a174-6cf9-44a3-8e00-61df8220cb2d.png"
+Prediction { affirmative_confidence: 0.039842032, negative_confidence: 0.96015793 }
+[bicycles] "./test_data/3x3/bicycles/not matches/09872fe3-f8b5-4d36-a9f0-16bbfd242010.png"
+Prediction { affirmative_confidence: 0.033562772, negative_confidence: 0.9664373 }
+[bicycles] "./test_data/3x3/bicycles/not matches/d4c4ea48-4fb6-4206-9ad1-27f0bb4738a4.png"
+Prediction { affirmative_confidence: 0.107740425, negative_confidence: 0.8922596 }
+[bicycles] "./test_data/3x3/bicycles/not matches/a8c4f76a-d152-4fca-b27b-91180f3dce5a.png"
+Prediction { affirmative_confidence: 0.077982485, negative_confidence: 0.92201746 }
+[bicycles] "./test_data/3x3/bicycles/not matches/b16db3fa-57d4-42c1-958d-0d2914d99e37.png"
+Prediction { affirmative_confidence: 0.04247581, negative_confidence: 0.9575242 }
+[bicycles] "./test_data/3x3/bicycles/not matches/4239f3c9-9255-4ea5-ba8f-dbbda93d4ad8.png"
+Prediction { affirmative_confidence: 0.04247581, negative_confidence: 0.9575242 }
+[bicycles] "./test_data/3x3/bicycles/not matches/218bf046-5406-475f-a8df-2ea461f8d57c.png"
+Prediction { affirmative_confidence: 0.07484196, negative_confidence: 0.9251581 }
+[bicycles] "./test_data/3x3/bicycles/not matches/7f3b6303-6fc7-4d34-a600-fd03952fa665.png"
+Prediction { affirmative_confidence: 0.041579906, negative_confidence: 0.95842004 }
+[bicycles] "./test_data/3x3/bicycles/not matches/1f11a8c9-59f5-4820-b86e-4a361055fd84.png"
+Prediction { affirmative_confidence: 0.5499025, negative_confidence: 0.45009744 }
+[bicycles] "./test_data/3x3/bicycles/not matches/563ffb80-4920-4b42-9988-8d95031391ea.png"
+Prediction { affirmative_confidence: 0.030135166, negative_confidence: 0.9698648 }
+[bicycles] "./test_data/3x3/bicycles/not matches/85c1bf40-4f6f-4904-a9c5-ef4265eb2d6d.png"
+Prediction { affirmative_confidence: 0.020391854, negative_confidence: 0.9796082 }
+[bicycles] "./test_data/3x3/bicycles/not matches/5020048b-a247-4f51-ba48-13c79f0e5b33.png"
+Prediction { affirmative_confidence: 0.07639742, negative_confidence: 0.9236025 }
+[bicycles] "./test_data/3x3/bicycles/not matches/faedcab9-725e-41f6-9051-dfc033f0086f.png"
+Prediction { affirmative_confidence: 0.03736522, negative_confidence: 0.96263474 }
+[bicycles] "./test_data/3x3/bicycles/not matches/7452e973-99b5-4187-8a13-38ffc2f4cb5d.png"
+Prediction { affirmative_confidence: 0.13107322, negative_confidence: 0.8689268 }
+[bicycles] "./test_data/3x3/bicycles/not matches/b8114de0-8d16-44b4-9094-9f9d09a79d6f.png"
+Prediction { affirmative_confidence: 0.17397574, negative_confidence: 0.82602423 }
+[bicycles] "./test_data/3x3/bicycles/not matches/1fe8cb0c-9b71-4db9-b7af-c8d983b29539.png"
+Prediction { affirmative_confidence: 0.05592852, negative_confidence: 0.94407153 }
+[bicycles] "./test_data/3x3/bicycles/not matches/7e066c46-9d99-4038-b0fb-38ec701af853.png"
+Prediction { affirmative_confidence: 0.37476736, negative_confidence: 0.6252327 }
+[bicycles] "./test_data/3x3/bicycles/not matches/192bb4b2-4156-413c-9173-bd3227d0a8f1.png"
+Prediction { affirmative_confidence: 0.086367644, negative_confidence: 0.9136324 }
+[bicycles] "./test_data/3x3/bicycles/not matches/2729dd19-18c2-478e-969c-906eccabe828.png"
+Prediction { affirmative_confidence: 0.3291361, negative_confidence: 0.6708639 }
+[bicycles] "./test_data/3x3/bicycles/not matches/edbbaec6-50be-4994-9f99-bd0bf25d6a04.png"
+Prediction { affirmative_confidence: 0.14985588, negative_confidence: 0.8501441 }
+[bicycles] "./test_data/3x3/bicycles/not matches/aaeabcce-b9bd-43cf-90aa-7ef2d4721f05.png"
+Prediction { affirmative_confidence: 0.07798248, negative_confidence: 0.9220176 }
+[bicycles] "./test_data/3x3/bicycles/not matches/3f701c9c-ee86-4edc-88e3-26593b791df1.png"
+Prediction { affirmative_confidence: 0.062102005, negative_confidence: 0.9378979 }
+[bicycles] "./test_data/3x3/bicycles/not matches/aff5829a-6282-4b07-b0dc-ea2c6a74c880.png"
+Prediction { affirmative_confidence: 0.11432815, negative_confidence: 0.88567185 }
+[bicycles] "./test_data/3x3/bicycles/not matches/6876f874-6f86-4a8d-9f46-147c8a9c131c.png"
+Prediction { affirmative_confidence: 0.051410235, negative_confidence: 0.9485898 }
+[bicycles] "./test_data/3x3/bicycles/not matches/6577453c-0203-4bdb-be50-45c6353afa79.png"
+Prediction { affirmative_confidence: 0.038999423, negative_confidence: 0.9610006 }
+[bicycles] "./test_data/3x3/bicycles/not matches/629f9040-7f5c-41ed-979f-16f4e3e1c42c.png"
+Prediction { affirmative_confidence: 0.25575647, negative_confidence: 0.74424356 }
+[bicycles] "./test_data/3x3/bicycles/not matches/9b09e9ae-3858-4c87-a823-045c9d7acc55.png"
+Prediction { affirmative_confidence: 0.05362449, negative_confidence: 0.9463755 }
+[bicycles] "./test_data/3x3/bicycles/not matches/af0e8e1d-649e-4739-9dab-9c6db6cc1629.png"
+Prediction { affirmative_confidence: 0.14154811, negative_confidence: 0.8584519 }
+[bicycles] "./test_data/3x3/bicycles/not matches/1b88f938-7c6f-4642-aa91-ee9a2c96fc7d.png"
+Prediction { affirmative_confidence: 0.060818437, negative_confidence: 0.93918157 }
+[bicycles] "./test_data/3x3/bicycles/not matches/5292908a-383d-465e-bd05-86254ac65c62.png"
+Prediction { affirmative_confidence: 0.07331566, negative_confidence: 0.9266843 }
+[bicycles] "./test_data/3x3/bicycles/not matches/37fc71ad-f34c-4e86-b502-eaa90bde0921.png"
+Prediction { affirmative_confidence: 0.04070208, negative_confidence: 0.95929784 }
+[bicycles] "./test_data/3x3/bicycles/not matches/7dd9ac05-3a02-4cac-bd00-25cc9389901f.png"
+Prediction { affirmative_confidence: 0.045275472, negative_confidence: 0.95472455 }
+[bicycles] "./test_data/3x3/bicycles/not matches/2020114a-aa67-4b39-bf88-2a41c94ff07a.png"
+Prediction { affirmative_confidence: 0.041579895, negative_confidence: 0.95842004 }
+[bicycles] "./test_data/3x3/bicycles/not matches/a64a3ceb-2099-4ca0-9067-a9451b990516.png"
+Prediction { affirmative_confidence: 0.08994478, negative_confidence: 0.9100552 }
+[bicycles] "./test_data/3x3/bicycles/not matches/f6e877de-f6b8-4497-a8c5-180296c36c78.png"
+Prediction { affirmative_confidence: 0.41191667, negative_confidence: 0.5880833 }
+[bicycles] "./test_data/3x3/bicycles/not matches/e705fbec-a010-4abf-a1bb-7cd2efa09c8a.png"
+Prediction { affirmative_confidence: 0.13107325, negative_confidence: 0.8689268 }
+[bicycles] "./test_data/3x3/bicycles/not matches/e1800a92-0320-4c71-a662-b502547d0789.png"
+Prediction { affirmative_confidence: 0.15271303, negative_confidence: 0.847287 }
+[bicycles] "./test_data/3x3/bicycles/not matches/9362017e-c25b-4460-bb28-df0135edb248.png"
+Prediction { affirmative_confidence: 0.077982485, negative_confidence: 0.92201746 }
+[bicycles] "./test_data/3x3/bicycles/not matches/a62611c8-4aa8-409e-a72a-9a56b2c9cd8c.png"
+Prediction { affirmative_confidence: 0.07034875, negative_confidence: 0.92965126 }
+[bicycles] "./test_data/3x3/bicycles/not matches/e0c55b1e-5ddf-4c1e-9bfb-2a86d311d7e1.png"
+Prediction { affirmative_confidence: 0.06341085, negative_confidence: 0.9365892 }
+[bicycles] "./test_data/3x3/bicycles/not matches/518f4a1d-cc85-4ab4-bfa6-4fb635d9fcc5.png"
+Prediction { affirmative_confidence: 0.038999423, negative_confidence: 0.9610006 }
+[bicycles] "./test_data/3x3/bicycles/not matches/510d0ce0-77c1-4e38-90b3-10120c2e0423.png"
+Prediction { affirmative_confidence: 0.09750166, negative_confidence: 0.9024983 }
+[bicycles] "./test_data/3x3/bicycles/not matches/0ef0eeee-7556-4c5c-9f54-e920409c06ca.png"
+Prediction { affirmative_confidence: 0.13886562, negative_confidence: 0.8611344 }
+[bicycles] "./test_data/3x3/bicycles/not matches/67a9b1ad-bfbb-471c-b981-a71488dfcb76.png"
+Prediction { affirmative_confidence: 0.10561979, negative_confidence: 0.8943803 }
+[bicycles] "./test_data/3x3/bicycles/not matches/52710fe3-7f58-47cd-8dd1-1ecc972c3dff.png"
+Prediction { affirmative_confidence: 0.390536, negative_confidence: 0.60946393 }
+[bicycles] "./test_data/3x3/bicycles/not matches/f641ada9-eaf2-4643-a571-5524f4ad9fc9.png"
+Prediction { affirmative_confidence: 0.07798248, negative_confidence: 0.9220176 }
+[bicycles] "./test_data/3x3/bicycles/not matches/d81823f5-1280-4ca3-a9bf-7c8b2933b302.png"
+Prediction { affirmative_confidence: 0.099477425, negative_confidence: 0.90052253 }
+[bicycles] "./test_data/3x3/bicycles/not matches/d5c6c744-2366-4190-86f2-502a9f6b87d8.png"
+Prediction { affirmative_confidence: 0.077982485, negative_confidence: 0.92201746 }
+[bicycles] 93.8% 61 Correct, 6.2% 4 Incorrect (65 total)
